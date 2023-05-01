@@ -1,0 +1,12 @@
+Started Journal May 1 2023.
+
+This journal will chronical my efforts to create a file tracking program.
+    1. Gets the path, file name and hash of files on my computer.
+    2. By using the hash I can find identical files.
+    3. Keep track of changes to the file. (Maybe last date?)
+    4. The input is either a file or directory.
+
+ I have collected a number of different files that may be germain to the 
+ effort that may or may not end up in the final version.
+
+ 

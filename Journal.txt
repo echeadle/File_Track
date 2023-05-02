@@ -9,4 +9,16 @@ This journal will chronical my efforts to create a file tracking program.
  I have collected a number of different files that may be germain to the 
  effort that may or may not end up in the final version.
 
- 
+  I found the file listings that were made before and after I copied the files
+  to the /HOS/learn/python-in-containers/Docs/ directory.  I don't remember
+  if the files I found have the original locations of the pdf files.
+
+  If not then the file locations may be found looking at the backups.
+
+  Right now I will be looking for Database books to figure out how to 
+  create the Database.  It will have Filename, filepath, and hash.
+  I want to be able to find all files that have the same hash. 
+  
+  The files that have the locations and filename of the old system
+  is /home/echeadle/Workspace/AI_Prog/File_Track/documents.
+

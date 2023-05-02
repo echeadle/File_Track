@@ -1,0 +1,1221 @@
+./HOS/learn/python-in-containers/Docs/00learn_obj.pdf
+./HOS/learn/python-in-containers/Docs/03GettingStarted.pdf
+./HOS/learn/python-in-containers/Docs/04Boxes.pdf
+./HOS/learn/python-in-containers/Docs/05Plugins.pdf
+./HOS/learn/python-in-containers/Docs/06Provisioning.pdf
+./HOS/learn/python-in-containers/Docs/07-19-00254-CV_07-19-00254-CV Opinion.pdf
+./HOS/learn/python-in-containers/Docs/07-19-00254-CV_+JUDGMENT - AFFIRM_FILECOPY.pdf
+./HOS/learn/python-in-containers/Docs/07-19-00254-CV_OPINION ISSD (CVR LTR)_FILECOPY.pdf
+./HOS/learn/python-in-containers/Docs/07MultiVMs.pdf
+./HOS/learn/python-in-containers/Docs/10-1-2007.pdf
+./HOS/learn/python-in-containers/Docs/10-1-2008.pdf
+./HOS/learn/python-in-containers/Docs/10-1-2009.pdf
+./HOS/learn/python-in-containers/Docs/10-1-2010.pdf
+./HOS/learn/python-in-containers/Docs/10-1-2011.pdf
+./HOS/learn/python-in-containers/Docs/10-1-2012.pdf
+./HOS/learn/python-in-containers/Docs/10-1-2013.pdf
+./HOS/learn/python-in-containers/Docs/10-1-2014.pdf
+./HOS/learn/python-in-containers/Docs/101344image101344.pdf
+./HOS/learn/python-in-containers/Docs/11046-medicare-wheelchair-scooter.pdf
+./HOS/learn/python-in-containers/Docs/11-1-2007.pdf
+./HOS/learn/python-in-containers/Docs/11-1-2008.pdf
+./HOS/learn/python-in-containers/Docs/11-1-2009.pdf
+./HOS/learn/python-in-containers/Docs/11-1-2010.pdf
+./HOS/learn/python-in-containers/Docs/11-1-2011.pdf
+./HOS/learn/python-in-containers/Docs/11-1-2012.pdf
+./HOS/learn/python-in-containers/Docs/11-1-2013.pdf
+./HOS/learn/python-in-containers/Docs/11-1-2014.pdf
+./HOS/learn/python-in-containers/Docs/1-1-2007.pdf
+./HOS/learn/python-in-containers/Docs/1-1-2008.pdf
+./HOS/learn/python-in-containers/Docs/1-1-2009x2.pdf
+./HOS/learn/python-in-containers/Docs/1-1-2009x.pdf
+./HOS/learn/python-in-containers/Docs/1-1-2010.pdf
+./HOS/learn/python-in-containers/Docs/1-1-2011.pdf
+./HOS/learn/python-in-containers/Docs/1-1-2012.pdf
+./HOS/learn/python-in-containers/Docs/1-1-2012x.pdf
+./HOS/learn/python-in-containers/Docs/1-1-2013.pdf
+./HOS/learn/python-in-containers/Docs/1-1-2014.pdf
+./HOS/learn/python-in-containers/Docs/1-1-2015.pdf
+./HOS/learn/python-in-containers/Docs/11 Stage Manual -ROALKUV10DCG (1).pdf
+./HOS/learn/python-in-containers/Docs/12-1-2007.pdf
+./HOS/learn/python-in-containers/Docs/12-1-2008.pdf
+./HOS/learn/python-in-containers/Docs/12-1-2009.pdf
+./HOS/learn/python-in-containers/Docs/12-1-2010.pdf
+./HOS/learn/python-in-containers/Docs/12-1-2011.pdf
+./HOS/learn/python-in-containers/Docs/12-1-2012.pdf
+./HOS/learn/python-in-containers/Docs/12-1-2013.pdf
+./HOS/learn/python-in-containers/Docs/12-1-2014.pdf
+./HOS/learn/python-in-containers/Docs/135640image135640.pdf
+./HOS/learn/python-in-containers/Docs/135908image135908.pdf
+./HOS/learn/python-in-containers/Docs/140555image140555.pdf
+./HOS/learn/python-in-containers/Docs/140815image140815.pdf
+./HOS/learn/python-in-containers/Docs/141240image141241.pdf
+./HOS/learn/python-in-containers/Docs/2010_e_sedan.pdf
+./HOS/learn/python-in-containers/Docs/2013-08-23 1st Am Pet.pdf
+./HOS/learn/python-in-containers/Docs/2013-08-23 Pl Resp Higginson MSJ.pdf
+./HOS/learn/python-in-containers/Docs/2014-state-of-devops-report.pdf
+./HOS/learn/python-in-containers/Docs/2015-08-21 Plaintiff's Letter Brief.pdf
+./HOS/learn/python-in-containers/Docs/2016NationalLibraryLibraryofMedicine_ASVC.pdf
+./HOS/learn/python-in-containers/Docs/2017.11.20 FM Petitioners' Brief on the Merits (McKim).pdf
+./HOS/learn/python-in-containers/Docs/20200325_HowToBuildEnterpriseKubernetesStrategy-WP.pdf
+./HOS/learn/python-in-containers/Docs/2020_1120S_ClientCopyK1Package_CHEADLE MOCK, INC_EDWARD CHEADLE.pdf
+./HOS/learn/python-in-containers/Docs/2020_9-29_loan agreement_GN.pdf
+./HOS/learn/python-in-containers/Docs/2020-Benefits-Info-For-Terminating-Employees.pdf
+./HOS/learn/python-in-containers/Docs/2020_TAX_INFO_5498SA_INSERT.pdf
+./HOS/learn/python-in-containers/Docs/2021-AARP-EU-KUT17.pdf
+./HOS/learn/python-in-containers/Docs/2021EOWRecyclingMapandCalendar.pdf
+./HOS/learn/python-in-containers/Docs/2021 UHC Clarity Guide 1.pdf
+./HOS/learn/python-in-containers/Docs/2022 Knight & Cheadle Naviplan, JLC Final.pdf
+./HOS/learn/python-in-containers/Docs/2022SandyCityRecyclingCalendarAndMap(1).pdf
+./HOS/learn/python-in-containers/Docs/2022SandyCityRecyclingCalendarAndMap(2).pdf
+./HOS/learn/python-in-containers/Docs/2022SandyCityRecyclingCalendarAndMap(3).pdf
+./HOS/learn/python-in-containers/Docs/2022SandyCityRecyclingCalendarAndMap(4).pdf
+./HOS/learn/python-in-containers/Docs/2022SandyCityRecyclingCalendarAndMap(5).pdf
+./HOS/learn/python-in-containers/Docs/2022SandyCityRecyclingCalendarAndMap(6).pdf
+./HOS/learn/python-in-containers/Docs/2022SandyCityRecyclingCalendarAndMap(7).pdf
+./HOS/learn/python-in-containers/Docs/2022SandyCityRecyclingCalendarAndMap(8).pdf
+./HOS/learn/python-in-containers/Docs/2022SandyCityRecyclingCalendarAndMap(9).pdf
+./HOS/learn/python-in-containers/Docs/2022SandyCityRecyclingCalendarAndMap.pdf
+./HOS/learn/python-in-containers/Docs/2022SandyCityRecyclingCalendar.pdf
+./HOS/learn/python-in-containers/Docs/2-1-2007.pdf
+./HOS/learn/python-in-containers/Docs/2-1-2008x.pdf
+./HOS/learn/python-in-containers/Docs/2-1-2009.pdf
+./HOS/learn/python-in-containers/Docs/2-1-2011.pdf
+./HOS/learn/python-in-containers/Docs/2-1-2012.pdf
+./HOS/learn/python-in-containers/Docs/2-1-2013.pdf
+./HOS/learn/python-in-containers/Docs/2-1-2014.pdf
+./HOS/learn/python-in-containers/Docs/2-1-2015.pdf
+./HOS/learn/python-in-containers/Docs/3-1-2007.pdf
+./HOS/learn/python-in-containers/Docs/3-1-2008.pdf
+./HOS/learn/python-in-containers/Docs/3-1-2009.pdf
+./HOS/learn/python-in-containers/Docs/3-1-2010.pdf
+./HOS/learn/python-in-containers/Docs/3-1-2011.pdf
+./HOS/learn/python-in-containers/Docs/3-1-2013.pdf
+./HOS/learn/python-in-containers/Docs/3-1-2014.pdf
+./HOS/learn/python-in-containers/Docs/3-1-2015.pdf
+./HOS/learn/python-in-containers/Docs/3-31-2012.pdf
+./HOS/learn/python-in-containers/Docs/33274686651.pdf
+./HOS/learn/python-in-containers/Docs/3_34937_WebsitesecincorpUSA.pdf
+./HOS/learn/python-in-containers/Docs/38104_ProtectingYourBrandAgainstMalwareThreatsWithCodeSigning.pdf
+./HOS/learn/python-in-containers/Docs/3-creating-ecs-iam-roles.pdf
+./HOS/learn/python-in-containers/Docs/3_HITOA-BNA-201002-v2.pdf
+./HOS/learn/python-in-containers/Docs/3-setting-up-an-initial-course-folder.pdf
+./HOS/learn/python-in-containers/Docs/400-2352_scoopfree_second_generation.pdf
+./HOS/learn/python-in-containers/Docs/4-1-2007.pdf
+./HOS/learn/python-in-containers/Docs/4-1-2007x.pdf
+./HOS/learn/python-in-containers/Docs/4-1-2008.pdf
+./HOS/learn/python-in-containers/Docs/4-1-2008x.pdf
+./HOS/learn/python-in-containers/Docs/4-1-2009.pdf
+./HOS/learn/python-in-containers/Docs/4-1-2010.pdf
+./HOS/learn/python-in-containers/Docs/4-1-2011.pdf
+./HOS/learn/python-in-containers/Docs/4-1-2012.pdf
+./HOS/learn/python-in-containers/Docs/4-1-2012x.pdf
+./HOS/learn/python-in-containers/Docs/4-1-2013.pdf
+./HOS/learn/python-in-containers/Docs/4-1-2014.pdf
+./HOS/learn/python-in-containers/Docs/4-1-2015.pdf
+./HOS/learn/python-in-containers/Docs/4132 ~~ - Support Schedule.pdf
+./HOS/learn/python-in-containers/Docs/4_43856_CLOUDCONTROL_1_LR_FINAL.pdf
+./HOS/learn/python-in-containers/Docs/4_45871_Building_the_New_Workplace.pdf
+./HOS/learn/python-in-containers/Docs/4_47400_preparingprivatecloudhybridit.pdf
+./HOS/learn/python-in-containers/Docs/4AA4-7584ENW.pdf
+./HOS/learn/python-in-containers/Docs/4-clusters.pdf
+./HOS/learn/python-in-containers/Docs/4-container-agent.pdf
+./HOS/learn/python-in-containers/Docs/4-container-instances.pdf
+./HOS/learn/python-in-containers/Docs/4-private-docker-registry-ecr.pdf
+./HOS/learn/python-in-containers/Docs/4-scheduler.pdf
+./HOS/learn/python-in-containers/Docs/4-scheduling-services.pdf
+./HOS/learn/python-in-containers/Docs/4-starting-tasks.pdf
+./HOS/learn/python-in-containers/Docs/4-task-definitions.pdf
+./HOS/learn/python-in-containers/Docs/4-tearing-down-our-cluster.pdf
+./HOS/learn/python-in-containers/Docs/5-1-1014.pdf
+./HOS/learn/python-in-containers/Docs/5-1-2007.pdf
+./HOS/learn/python-in-containers/Docs/5-1-2008.pdf
+./HOS/learn/python-in-containers/Docs/5-1-2009.pdf
+./HOS/learn/python-in-containers/Docs/5-1-2010.pdf
+./HOS/learn/python-in-containers/Docs/5-1-2011.pdf
+./HOS/learn/python-in-containers/Docs/5-1-2012.pdf
+./HOS/learn/python-in-containers/Docs/5-1-2013.pdf
+./HOS/learn/python-in-containers/Docs/5-1-2013x.pdf
+./HOS/learn/python-in-containers/Docs/5-1-2015.pdf
+./HOS/learn/python-in-containers/Docs/5_50845_Cyber_security_special_report.pdf
+./HOS/learn/python-in-containers/Docs/5_Advantages_of_DRL.pdf
+./HOS/learn/python-in-containers/Docs/5_unsung_tools_of_devops.pdf
+./HOS/learn/python-in-containers/Docs/6-1-2007.pdf
+./HOS/learn/python-in-containers/Docs/6-1-2008.pdf
+./HOS/learn/python-in-containers/Docs/6-1-2009.pdf
+./HOS/learn/python-in-containers/Docs/6-1-2010.pdf
+./HOS/learn/python-in-containers/Docs/6-1-2011.pdf
+./HOS/learn/python-in-containers/Docs/6-1-2012.pdf
+./HOS/learn/python-in-containers/Docs/6-1-2013.pdf
+./HOS/learn/python-in-containers/Docs/6-1-2014.pdf
+./HOS/learn/python-in-containers/Docs/6-1-2015.pdf
+./HOS/learn/python-in-containers/Docs/7-1-2007.pdf
+./HOS/learn/python-in-containers/Docs/7-1-2008.pdf
+./HOS/learn/python-in-containers/Docs/7-1-2009.pdf
+./HOS/learn/python-in-containers/Docs/7-1-2010.pdf
+./HOS/learn/python-in-containers/Docs/7-1-2011.pdf
+./HOS/learn/python-in-containers/Docs/7-1-2012.pdf
+./HOS/learn/python-in-containers/Docs/7-1-2013.pdf
+./HOS/learn/python-in-containers/Docs/7-1-2014.pdf
+./HOS/learn/python-in-containers/Docs/7-1-2015.pdf
+./HOS/learn/python-in-containers/Docs/7_EasemyTripProposal.pdf
+./HOS/learn/python-in-containers/Docs/8-1-2007.pdf
+./HOS/learn/python-in-containers/Docs/8-1-2008.pdf
+./HOS/learn/python-in-containers/Docs/8-1-2009.pdf
+./HOS/learn/python-in-containers/Docs/8-1-2010.pdf
+./HOS/learn/python-in-containers/Docs/8-1-2011.pdf
+./HOS/learn/python-in-containers/Docs/8-1-2012.pdf
+./HOS/learn/python-in-containers/Docs/8-1-2013.pdf
+./HOS/learn/python-in-containers/Docs/8-1-2014.pdf
+./HOS/learn/python-in-containers/Docs/8-1-2015.pdf
+./HOS/learn/python-in-containers/Docs/8_Villa Group-Annex Forms-TF-EMT-VF00004167-000.pdf
+./HOS/learn/python-in-containers/Docs/9-1-2007.pdf
+./HOS/learn/python-in-containers/Docs/9-1-2008.pdf
+./HOS/learn/python-in-containers/Docs/9-1-2009.pdf
+./HOS/learn/python-in-containers/Docs/9-1-2010.pdf
+./HOS/learn/python-in-containers/Docs/9-1-2011.pdf
+./HOS/learn/python-in-containers/Docs/9-1-2012.pdf
+./HOS/learn/python-in-containers/Docs/9-1-2013.pdf
+./HOS/learn/python-in-containers/Docs/9-1-2014.pdf
+./HOS/learn/python-in-containers/Docs/9781782160786-SOCKETIO_REALTIME_WEB_APPLICATION_DEVELOPMENT.pdf
+./HOS/learn/python-in-containers/Docs/9781782163145-LEARNING_JQUERY_FOURTH_EDITION.pdf
+./HOS/learn/python-in-containers/Docs/9781782165569-INSTANT_NODEJS_STARTER.pdf
+./HOS/learn/python-in-containers/Docs/9781782166627-ELASTICSEARCH_COOKBOOK.pdf
+./HOS/learn/python-in-containers/Docs/9781782167105-LEARNING_LINUX_BINARY_ANALYSIS.pdf
+./HOS/learn/python-in-containers/Docs/9781782167938-APACHE_KAFKA.pdf
+./HOS/learn/python-in-containers/Docs/9781782168058-IMPLEMENTING_CLOUD_STORAGE_WITH_OPENSTACK_SWIFT.pdf
+./HOS/learn/python-in-containers/Docs/9781782172185-VSPHERE_VIRTUAL_MACHINE_MANAGEMENT.pdf
+./HOS/learn/python-in-containers/Docs/9781782173434-LEARNING_BIG_DATA_WITH_AMAZON_ELASTIC_MAPREDUCE.pdf
+./HOS/learn/python-in-containers/Docs/9781782173632-MASTERING_AWS_DEVELOPMENT.pdf
+./HOS/learn/python-in-containers/Docs/9781782177340-IMPLEMENTING_CLOUD_DESIGN_PATTERNS_FOR_AWS.pdf
+./HOS/learn/python-in-containers/Docs/9781782177944-HEROKU_COOKBOOK.pdf
+./HOS/learn/python-in-containers/Docs/9781783280995-PRACTICAL_DATA_ANALYSIS.pdf
+./HOS/learn/python-in-containers/Docs/9781783283156-MASTERING_PYTHON_REGULAR_EXPRESSIONS.pdf
+./HOS/learn/python-in-containers/Docs/9781783284351-CLOJURE_FOR_MACHINE_LEARNING.pdf
+./HOS/learn/python-in-containers/Docs/9781783285952-SIGNALR_REALTIME_APPLICATION_COOKBOOK.pdf
+./HOS/learn/python-in-containers/Docs/9781783286195-RASPBERRY_PI_SUPER_CLUSTER.pdf
+./HOS/learn/python-in-containers/Docs/9781783287215-D_COOKBOOK.pdf
+./HOS/learn/python-in-containers/Docs/9781783551712-LEARNING_PYTHON.pdf
+./HOS/learn/python-in-containers/Docs/9781783552092-LEARNING_SINGLEPAGE_WEB_APPLICATION_DEVELOPMENT.pdf
+./HOS/learn/python-in-containers/Docs/9781783553112-PYTHON_MACHINE_LEARNING_BY_EXAMPLE.pdf
+./HOS/learn/python-in-containers/Docs/9781783553730-GIT_BEST_PRACTICES_GUIDE.pdf
+./HOS/learn/python-in-containers/Docs/9781783980086-ANGULARJS_ESSENTIALS.pdf
+./HOS/learn/python-in-containers/Docs/9781783980420-PYTHON_FOR_SECRET_AGENTS.pdf
+./HOS/learn/python-in-containers/Docs/9781783980963-LEARNING_OPENSHIFT.pdf
+./HOS/learn/python-in-containers/Docs/9781783983209-RABBITMQ_ESSENTIALS.pdf
+./HOS/learn/python-in-containers/Docs/9781783983261-LEARNING_PREDICTIVE_ANALYTICS_WITH_PYTHON.pdf
+./HOS/learn/python-in-containers/Docs/9781783983308-LEARNING_OPENSTACK_NETWORKING_NEUTRON.pdf
+./HOS/learn/python-in-containers/Docs/9781783983568-ANGULARJS_SERVICES.pdf
+./HOS/learn/python-in-containers/Docs/9781783984480-BUILDING_SCALABLE_APPS_WITH_REDIS_AND_NODEJS.pdf
+./HOS/learn/python-in-containers/Docs/9781783984787-ORCHESTRATING_DOCKER.pdf
+./HOS/learn/python-in-containers/Docs/9781783987986-MASTERING_JAVASCRIPT_DESIGN_PATTERNS.pdf
+./HOS/learn/python-in-containers/Docs/9781783988921-PHONEGAP_AND_ANGULARJS_FOR_CROSSPLATFORM_DEVELOP.pdf
+./HOS/learn/python-in-containers/Docs/9781783989621-DART_COOKBOOK.pdf
+./HOS/learn/python-in-containers/Docs/9781784393946-BUILD_YOUR_OWN_PAAS_WITH_DOCKER.pdf
+./HOS/learn/python-in-containers/Docs/9781784395643-MASTERING_OPENSTACK.pdf
+./HOS/learn/python-in-containers/Docs/9781784396008-LEARNING_PYTHON_NETWORKING.pdf
+./HOS/learn/python-in-containers/Docs/9781784396053-LEARNING_DATA_MINING_WITH_PYTHON.pdf
+./HOS/learn/python-in-containers/Docs/9781784397029-CREATING_DEVELOPMENT_ENVIRONMENTS_WITH_VAGRANT_S.pdf
+./HOS/learn/python-in-containers/Docs/9781784398286-RASPBERRY_PI_COMPUTER_VISION_PROGRAMMING.pdf
+./HOS/learn/python-in-containers/Docs/9781784398293-ANSIBLE_PLAYBOOK_ESSENTIALS.pdf
+./HOS/learn/python-in-containers/Docs/9781784398934-RESPONSIVE_WEB_DESIGN_WITH_HTML5_AND_CSS3_SECOND.pdf
+./HOS/learn/python-in-containers/Docs/9781784399597-MASTERING_LINUX_NETWORK_ADMINISTRATION.pdf
+./HOS/learn/python-in-containers/Docs/9781785282393-MASTERING_CENTOS_7_LINUX_SERVER.pdf
+./HOS/learn/python-in-containers/Docs/9781785886775-WEB_DEVELOPMENT_WITH_DJANGO_COOKBOOK_SECOND_EDITION.pdf
+./HOS/learn/python-in-containers/Docs/9781785886805-DOCKER_HIGH_PERFORMANCE.pdf
+./HOS/learn/python-in-containers/Docs/9781785887406-DEVELOPING_MICROSERVICES_WITH_NODEJS.pdf
+./HOS/learn/python-in-containers/Docs/9781785888854-SECURING_DOCKER.pdf
+./HOS/learn/python-in-containers/Docs/9781785889196-LEARNING_PYTHON_APPLICATION_DEVELOPMENT.pdf
+./HOS/learn/python-in-containers/Docs/9781786461148-DOCKER_NETWORKING_COOKBOOK.pdf
+./HOS/learn/python-in-containers/Docs/9781786462923-LEARNING_DOCKER_SECOND_EDITION.pdf
+./HOS/learn/python-in-containers/Docs/9781786464910-INFRASTRUCTURE_AS_CODE_IAC_COOKBOOK.pdf
+./HOS/learn/python-in-containers/Docs/9781786465931-DOCKER.pdf
+./HOS/learn/python-in-containers/Docs/9781786467454-NMAP_NETWORK_EXPLORATION_AND_SECURITY_AUDITING_COOKBOOK_SECOND_EDITION.pdf
+./HOS/learn/python-in-containers/Docs/9781786469007-DEPLOYMENT_WITH_DOCKER.pdf
+./HOS/learn/python-in-containers/Docs/9781787120761-PYTHON_JOURNEY_FROM_NOVICE_TO_EXPERT.pdf
+./HOS/learn/python-in-containers/Docs/9781787125230-CONTINUOUS_DELIVERY_WITH_DOCKER_AND_JENKINS.pdf
+./HOS/learn/python-in-containers/Docs/9781787125698-PYTHON_FOR_FINANCE_SECOND_EDITION.pdf
+./HOS/learn/python-in-containers/Docs/9781787126138-PENETRATION_TESTING_WITH_RASPBERRY_PI_SECOND_EDITION.pdf
+./HOS/learn/python-in-containers/Docs/9781787126954-SELINUX_SYSTEM_ADMINISTRATION_SECOND_EDITION.pdf
+./HOS/learn/python-in-containers/Docs/9781787280243-MASTERING_DOCKER_SECOND_EDITION.pdf
+./HOS/learn/python-in-containers/Docs/9781787288676-BUILDING_SERVERLESS_APPLICATIONS_WITH_PYTHON.pdf
+./HOS/learn/python-in-containers/Docs/9781788291910-CONTAINERIZATION_WITH_ANSIBLE_2.pdf
+./HOS/learn/python-in-containers/Docs/9781788293778-LINUX_POWERFUL_SERVER_ADMINISTRATION.pdf
+./HOS/learn/python-in-containers/Docs/9781788396646-DEVOPS_WITH_KUBERNETES.pdf
+./HOS/learn/python-in-containers/Docs/9781788620307-MASTERING_LINUX_SECURITY_AND_HARDENING.pdf
+./HOS/learn/python-in-containers/Docs/9781788835831-CLEAN_CODE_IN_PYTHON.pdf
+./HOS/learn/python-in-containers/Docs/9781789133806-PYTHON_AUTOMATION_COOKBOOK.pdf
+./HOS/learn/python-in-containers/Docs/9781789138054-HANDSON_DEVOPS_WITH_VAGRANT.pdf
+./HOS/learn/python-in-containers/Docs/9781789535365-LEARN_PYTHON_BY_BUILDING_DATA_SCIENCE_APPLICATIONS.pdf
+./HOS/learn/python-in-containers/Docs/9781789618501-LEARN_DATA_STRUCTURES_AND_ALGORITHMS_WITH_GOLANG.pdf
+./HOS/learn/python-in-containers/Docs/9781789801217-40_ALGORITHMS_EVERY_PROGRAMMER_SHOULD_KNOW.pdf
+./HOS/learn/python-in-containers/Docs/9781789805468-HANDSON_MICROSERVICES_WITH_KUBERNETES.pdf
+./HOS/learn/python-in-containers/Docs/9781789958096-LEARNING_PYTHON_NETWORKING_SECOND_EDITION.pdf
+./HOS/learn/python-in-containers/Docs/9781800203907-INTERPRETABLE_MACHINE_LEARNING_WITH_PYTHON.pdf
+./HOS/learn/python-in-containers/Docs/9781800204805-BUILD_YOUR_OWN_PROGRAMMING_LANGUAGE.pdf
+./HOS/learn/python-in-containers/Docs/9781800209763-THE_STATISTICS_AND_CALCULUS_WITH_PYTHON_WORKSHOP.pdf
+./HOS/learn/python-in-containers/Docs/9781800562493-KEYCLOAK_IDENTITY_AND_ACCESS_MANAGEMENT_FOR_MODERN_APPLICATIONS.pdf
+./HOS/learn/python-in-containers/Docs/9781801070119-PYTHON_FOR_GEEKS.pdf
+./HOS/learn/python-in-containers/Docs/9781801076302-PYTHON_MICROSERVICES_DEVELOPMENT.pdf
+./HOS/learn/python-in-containers/Docs/9781801811644-LINUX_SERVICE_MANAGEMENT_MADE_EASY_WITH_SYSTEMD.pdf
+./HOS/learn/python-in-containers/Docs/9781801815093-LEARN_PYTHON_PROGRAMMING.pdf
+./HOS/learn/python-in-containers/Docs/9781801818780-MASTERING_ANSIBLE.pdf
+./HOS/learn/python-in-containers/Docs/9781838981778-MASTERING_LINUX_SECURITY_AND_HARDENING.pdf
+./HOS/learn/python-in-containers/Docs/9781838983444-THE_DOCKER_WORKSHOP.pdf
+./HOS/learn/python-in-containers/Docs/9781838987428-DJANGO_3_WEB_DEVELOPMENT_COOKBOOK_FOURTH_EDITION.pdf
+./HOS/learn/python-in-containers/Docs/9781838989354-PYTHON_ALGORITHMIC_TRADING_COOKBOOK.pdf
+./HOS/learn/python-in-containers/Docs/9781839211539-ARTIFICIAL_INTELLIGENCE_BY_EXAMPLE_SECOND_EDITION.pdf
+./HOS/learn/python-in-containers/Docs/9781839218859-THE_PYTHON_WORKSHOP2.pdf
+./HOS/learn/python-in-containers/Docs/9781839218859-THE_PYTHON_WORKSHOP.pdf
+./HOS/learn/python-in-containers/Docs/9781849510189-MYSQL_FOR_PYTHON.pdf
+./HOS/learn/python-in-containers/Docs/9781849513463-PYTHON_NETWORK_PROGRAMMING_COOKBOOK.pdf
+./HOS/learn/python-in-containers/Docs/9781849517720-UNTANGLE_NETWORK_SECURITY.pdf
+./HOS/learn/python-in-containers/Docs/9781849519106-JQUERY_HOTSHOT.pdf
+./HOS/learn/python-in-containers/Docs/9781849519120-HADOOP_REALWORLD_SOLUTIONS_COOKBOOK.pdf
+./HOS/learn/python-in-containers/Docs/9781849689465-WINDOWS_SERVER_2012_AUTOMATION_WITH_POWERSHELL_C.pdf
+./HOS/learn/python-in-containers/Docs/9781849693189-RESPONSIVE_WEB_DESIGN_WITH_HTML5_AND_CSS3.pdf
+./HOS/learn/python-in-containers/Docs/9781849693684-CONTINUOUS_DELIVERY_AND_DEVOPS_A_QUICKSTART_GUID.pdf
+./HOS/learn/python-in-containers/Docs/9781849695107-PENETRATION_TESTING_WITH_THE_BASH_SHELL.pdf
+./HOS/learn/python-in-containers/Docs/9781849695947-HTML5_WEB_APPLICATION_DEVELOPMENT_BY_EXAMPLE_BE.pdf
+./HOS/learn/python-in-containers/Docs/9781849699792-WEBGL_GAME_DEVELOPMENT.pdf
+./HOS/learn/python-in-containers/Docs/{aa2f0004-2490-4043-b336-224aa126df8c}_vSphere_Design_Pocketbook_eBook.pdf
+./HOS/learn/python-in-containers/Docs/AARP Plan 1 2021.pdf
+./HOS/learn/python-in-containers/Docs/abs-guide.pdf
+./HOS/learn/python-in-containers/Docs/acceleratingdevelopmentvelocityusingdocker.pdf
+./HOS/learn/python-in-containers/Docs/Accepted.pdf
+./HOS/learn/python-in-containers/Docs/ACFrOgD21P5wKmYmW1ePFOkMgsXhLXrlTADnWNQ-tYfm5GOiHBwU9tjB3Dg_I9SMEygKX61SYHOl31QQswJ1h6uLvDbQnPz0DEdgB_T7yoSSQvy0DLc79AYi1g8QMpd546kTAOmTew0nmI-ZavlG.pdf
+./HOS/learn/python-in-containers/Docs/Active Directory Disaster Recovery [eBook].pdf
+./HOS/learn/python-in-containers/Docs/ActiveDirectoryDisasterRecovery.pdf
+./HOS/learn/python-in-containers/Docs/Active Directory with PowerShell [eBook].pdf
+./HOS/learn/python-in-containers/Docs/ActiveDirectorywithPowerShell.pdf
+./HOS/learn/python-in-containers/Docs/AdvancedBashScripting.pdf
+./HOS/learn/python-in-containers/Docs/algebraessentials.pdf
+./HOS/learn/python-in-containers/Docs/Algorithms_and_Data_Structures_for_Massi_v2.pdf
+./HOS/learn/python-in-containers/Docs/Algorithms_of_the_Intelligent_Web_Secon_v9_MEAP.pdf
+./HOS/learn/python-in-containers/Docs/Algorithms_of_the_In_v1_PUBLISH.pdf
+./HOS/learn/python-in-containers/Docs/Algorithms_of_the_In_v5_MEAP.pdf
+./HOS/learn/python-in-containers/Docs/all-design-guidelines.pdf
+./HOS/learn/python-in-containers/Docs/AllianceRx Walgreens Prime mail-order prescriptions - Medicare - 2021.pdf
+./HOS/learn/python-in-containers/Docs/Ambari_Install_v170.pdf
+./HOS/learn/python-in-containers/Docs/Amend Mtn to Vac Mod Arb Award.pdf
+./HOS/learn/python-in-containers/Docs/Anaconda-Starter-Guide.pdf
+./HOS/learn/python-in-containers/Docs/AnArchitectsViewofHazelcast_v0.3_web.pdf
+./HOS/learn/python-in-containers/Docs/AngularJS UI Development [eBook].pdf
+./HOS/learn/python-in-containers/Docs/AnITAuditorGuidetoecurityControlsRiskCompliance_0.pdf
+./HOS/learn/python-in-containers/Docs/Ansible+Codespace+Checklist(1).pdf
+./HOS/learn/python-in-containers/Docs/Ansible+Codespace+Checklist.pdf
+./HOS/learn/python-in-containers/Docs/Ansible Configuration Management [eBook].pdf
+./HOS/learn/python-in-containers/Docs/ansible-for-aws-sample.pdf
+./HOS/learn/python-in-containers/Docs/ansible-for-devops.pdf
+./HOS/learn/python-in-containers/Docs/ansible-for-kubernetes.pdf
+./HOS/learn/python-in-containers/Docs/Ansible_in_Depth.pdf
+./HOS/learn/python-in-containers/Docs/AnsibleTowerInstallationandReferenceGuide.pdf
+./HOS/learn/python-in-containers/Docs/AnsibleTowerQuickSetupGuide.pdf
+./HOS/learn/python-in-containers/Docs/AnsibleTowerUserGuide.pdf
+./HOS/learn/python-in-containers/Docs/antigen-result-93179-2022-01-14-edward-clement-cheadle.pdf
+./HOS/learn/python-in-containers/Docs/ApacheSolr4Cookbook.pdf
+./HOS/learn/python-in-containers/Docs/Appcelerator Titanium Smartphone App Development Cookbook [eBook].pdf
+./HOS/learn/python-in-containers/Docs/Application+LIfecycle+with+Docker+Compose+-+Part+1.pdf
+./HOS/learn/python-in-containers/Docs/Application+LIfecycle+with+Docker+Compose+-+Part+2.pdf
+./HOS/learn/python-in-containers/Docs/Appointment_Form.pdf
+./HOS/learn/python-in-containers/Docs/Appointment of Representative form_CMS 1696 English_clean2021.pdf
+./HOS/learn/python-in-containers/Docs/Approved.pdf
+./HOS/learn/python-in-containers/Docs/Arduino Home Automation Projects [eBook].pdf
+./HOS/learn/python-in-containers/Docs/Arduino_in_Action.pdf
+./HOS/learn/python-in-containers/Docs/Arquillian Testing Guide [eBook].pdf
+./HOS/learn/python-in-containers/Docs/Arrow Stamp(blue).pdf
+./HOS/learn/python-in-containers/Docs/Arrow Stamp(green).pdf
+./HOS/learn/python-in-containers/Docs/Arrow Stamp(red).pdf
+./HOS/learn/python-in-containers/Docs/Art_of_High_Availability.pdf
+./HOS/learn/python-in-containers/Docs/Ascensus.pdf
+./HOS/learn/python-in-containers/Docs/assemblylanguagestep-by-step_programmingwithlinux.pdf
+./HOS/learn/python-in-containers/Docs/AST-0089445_BYOD-Security.pdf
+./HOS/learn/python-in-containers/Docs/AST-0116150_Active_Direcotry_Recover_Be_More_Prepared.pdf
+./HOS/learn/python-in-containers/Docs/AtomEditorManual.pdf
+./HOS/learn/python-in-containers/Docs/Authors+Haven+Faq.pdf
+./HOS/learn/python-in-containers/Docs/Automatethe BoringStuffwithPython.pdf
+./HOS/learn/python-in-containers/Docs/AutomatetheBoringStuffwithPython.pdf
+./HOS/learn/python-in-containers/Docs/aws-cli.pdf
+./HOS/learn/python-in-containers/Docs/AWS_Lambda_in_Action_v2_MEAP.pdf
+./HOS/learn/python-in-containers/Docs/AWS_Lambda_in_Action_v3_MEAP.pdf
+./HOS/learn/python-in-containers/Docs/AWS_Risk_and_Compliance_Whitepaper.pdf
+./HOS/learn/python-in-containers/Docs/AWS_Security.pdf
+./HOS/learn/python-in-containers/Docs/back.pdf
+./HOS/learn/python-in-containers/Docs/Back_to_Simple_CSS.pdf
+./HOS/learn/python-in-containers/Docs/BackTrack 5 Wireless Penetration Testing Beginner’s Guide [eBook].pdf
+./HOS/learn/python-in-containers/Docs/bashCookbook.pdf
+./HOS/learn/python-in-containers/Docs/bashPocketReference.pdf
+./HOS/learn/python-in-containers/Docs/bashref.pdf
+./HOS/learn/python-in-containers/Docs/Bean Company.pdf
+./HOS/learn/python-in-containers/Docs/beginners_python_cheat_sheet_pcc_all.pdf
+./HOS/learn/python-in-containers/Docs/beginners_python_cheat_sheet_pcc_classes.pdf
+./HOS/learn/python-in-containers/Docs/beginners_python_cheat_sheet_pcc_dictionaries.pdf
+./HOS/learn/python-in-containers/Docs/beginners_python_cheat_sheet_pcc_django.pdf
+./HOS/learn/python-in-containers/Docs/beginners_python_cheat_sheet_pcc_files_exceptions.pdf
+./HOS/learn/python-in-containers/Docs/beginners_python_cheat_sheet_pcc_functions.pdf
+./HOS/learn/python-in-containers/Docs/beginners_python_cheat_sheet_pcc_if_while.pdf
+./HOS/learn/python-in-containers/Docs/beginners_python_cheat_sheet_pcc_lists.pdf
+./HOS/learn/python-in-containers/Docs/beginners_python_cheat_sheet_pcc_matplotlib.pdf
+./HOS/learn/python-in-containers/Docs/beginners_python_cheat_sheet_pcc.pdf
+./HOS/learn/python-in-containers/Docs/beginners_python_cheat_sheet_pcc_plotly.pdf
+./HOS/learn/python-in-containers/Docs/beginners_python_cheat_sheet_pcc_pygal.pdf
+./HOS/learn/python-in-containers/Docs/beginners_python_cheat_sheet_pcc_pygame.pdf
+./HOS/learn/python-in-containers/Docs/beginners_python_cheat_sheet_pcc_testing.pdf
+./HOS/learn/python-in-containers/Docs/beginners-python-cheat-sheets.pdf
+./HOS/learn/python-in-containers/Docs/beginning_android_tablet_programming.pdf
+./HOS/learn/python-in-containers/Docs/Begin_Python_Visualization.pdf
+./HOS/learn/python-in-containers/Docs/Benefit Plans and Coverage.pdf
+./HOS/learn/python-in-containers/Docs/BenefitVerificationLetter.pdf
+./HOS/learn/python-in-containers/Docs/BigDataMadeEasy.pdf
+./HOS/learn/python-in-containers/Docs/Big_Data.pdf
+./HOS/learn/python-in-containers/Docs/BlackSwanArticleSovelius_7.1_JMDH&VC_J.pdf
+./HOS/learn/python-in-containers/Docs/BLCLI_87.pdf
+./HOS/learn/python-in-containers/Docs/BlenderMasterClass.pdf
+./HOS/learn/python-in-containers/Docs/BloodPressure.pdf
+./HOS/learn/python-in-containers/Docs/BluePlan1.pdf
+./HOS/learn/python-in-containers/Docs/BluePlan3.pdf
+./HOS/learn/python-in-containers/Docs/BluePlanning2.pdf
+./HOS/learn/python-in-containers/Docs/BluePlanning.com.pdf
+./HOS/learn/python-in-containers/Docs/B. Morrow.pdf
+./HOS/learn/python-in-containers/Docs/Bonus Chapter_16_Activity_Solution.pdf
+./HOS/learn/python-in-containers/Docs/Bonus Chapter_16.pdf
+./HOS/learn/python-in-containers/Docs/BookofPF3e.pdf
+./HOS/learn/python-in-containers/Docs/Boot+Sequence+Order.pdf
+./HOS/learn/python-in-containers/Docs/Bootstrapping_Microservices_with_Docker.pdf
+./HOS/learn/python-in-containers/Docs/Bootstrap Site Blueprints [eBook].pdf
+./HOS/learn/python-in-containers/Docs/Bootstrap Site Blueprints.pdf
+./HOS/learn/python-in-containers/Docs/BSD_07_2014 (2).pdf
+./HOS/learn/python-in-containers/Docs/BSD_10_2013.pdf
+./HOS/learn/python-in-containers/Docs/BSD Debugg teaser.pdf
+./HOS/learn/python-in-containers/Docs/Build_an_Orchestrator_in_Go_v4.pdf
+./HOS/learn/python-in-containers/Docs/Building+and+Running+Reusable+Images.pdf
+./HOS/learn/python-in-containers/Docs/Build your own backend using Django & Django REST Framework - Command Line Cheat Sheet(1).pdf
+./HOS/learn/python-in-containers/Docs/Build your own backend using Django & Django REST Framework - Command Line Cheat Sheet.pdf
+./HOS/learn/python-in-containers/Docs/Build Your Own PaaS with Docker [eBook].pdf
+./HOS/learn/python-in-containers/Docs/Cambia Health HSA.pdf
+./HOS/learn/python-in-containers/Docs/CambiaHealthSolutions_STI_2020_1-26Final.pdf
+./HOS/learn/python-in-containers/Docs/Cambia Retirement Forms.pdf
+./HOS/learn/python-in-containers/Docs/Cannabis Information Document.pdf
+./HOS/learn/python-in-containers/Docs/Carolyn K..pdf
+./HOS/learn/python-in-containers/Docs/Carolyn Medications.pdf
+./HOS/learn/python-in-containers/Docs/CarolynMedications.pdf
+./HOS/learn/python-in-containers/Docs/CDebook.pdf
+./HOS/learn/python-in-containers/Docs/CG71-CalcGuide.pdf
+./HOS/learn/python-in-containers/Docs/changelog.pdf
+./HOS/learn/python-in-containers/Docs/chase1.pdf
+./HOS/learn/python-in-containers/Docs/CHEADLE-EDWARD-2ddocNeg.pdf
+./HOS/learn/python-in-containers/Docs/Cheadle-Resume2.pdf
+./HOS/learn/python-in-containers/Docs/Cheadle-Resume3.pdf
+./HOS/learn/python-in-containers/Docs/Cheadle-Resume4.pdf
+./HOS/learn/python-in-containers/Docs/Cheadle-Resume5.pdf
+./HOS/learn/python-in-containers/Docs/Cheadle-Resume6.pdf
+./HOS/learn/python-in-containers/Docs/Cheadle-Resume7.pdf
+./HOS/learn/python-in-containers/Docs/Cheadle-Resume.pdf
+./HOS/learn/python-in-containers/Docs/cheatsheet-a5.pdf
+./HOS/learn/python-in-containers/Docs/cheat-sheet-v2.pdf
+./HOS/learn/python-in-containers/Docs/checklist_finding_employment_pcc.pdf
+./HOS/learn/python-in-containers/Docs/CHS-367097-19-ACTIVATION-NewHireFlyer-CambiaDigital-r3.pdf
+./HOS/learn/python-in-containers/Docs/CL2020 EMEAR DEVWKS-1542 Intersight Ansible Lab Guide.pdf
+./HOS/learn/python-in-containers/Docs/Classic_Computer_Science_Problems_in_Pyt.pdf
+./HOS/learn/python-in-containers/Docs/Clinic Map-V-Safe-2nd Dose Reminder 2.12.2021.pdf
+./HOS/learn/python-in-containers/Docs/Cloudflare_for_Campaigns_Security_Guide.pdf
+./HOS/learn/python-in-containers/Docs/CloudMigration-main.pdf
+./HOS/learn/python-in-containers/Docs/Cloud_Native_Applications.pdf
+./HOS/learn/python-in-containers/Docs/cloudnativepython.pdf
+./HOS/learn/python-in-containers/Docs/Cloud_pricing_report_2021_22.07.21.pdf
+./HOS/learn/python-in-containers/Docs/clusteranalysisanddatamining.pdf
+./HOS/learn/python-in-containers/Docs/CMS-40B-April2019.pdf
+./HOS/learn/python-in-containers/Docs/CMS-L564.pdf
+./HOS/learn/python-in-containers/Docs/CoffeeScript Application Development [eBook].pdf
+./HOS/learn/python-in-containers/Docs/COM-008-000617658-0000288028.pdf
+./HOS/learn/python-in-containers/Docs/Community Server Quickly [eBook].pdf
+./HOS/learn/python-in-containers/Docs/Completed.pdf
+./HOS/learn/python-in-containers/Docs/._composers.pdf
+./HOS/learn/python-in-containers/Docs/composers.pdf
+./HOS/learn/python-in-containers/Docs/Confidential Communications Request Form - Medicare, 2022, Regence 5321REG-M.pdf
+./HOS/learn/python-in-containers/Docs/Confidential.pdf
+./HOS/learn/python-in-containers/Docs/configure+replication+using+xtrabackup.pdf
+./HOS/learn/python-in-containers/Docs/Container+Images.pdf
+./HOS/learn/python-in-containers/Docs/Containers+Explained.pdf
+./HOS/learn/python-in-containers/Docs/Context Directory Agent_cda10_setup_guide (3).pdf
+./HOS/learn/python-in-containers/Docs/Continuous Delivery and DevOps_ A Quickstart guide [eBook].pdf
+./HOS/learn/python-in-containers/Docs/contract.pdf
+./HOS/learn/python-in-containers/Docs/Core_Kubernetes.pdf
+./HOS/learn/python-in-containers/Docs/CoreOS_in_Action_v2_MEAP.pdf
+./HOS/learn/python-in-containers/Docs/Coronavirus_Vaccine_FAQ.pdf
+./HOS/learn/python-in-containers/Docs/covid19_data_latest.pdf
+./HOS/learn/python-in-containers/Docs/CovidVaccinationRecord.pdf
+./HOS/learn/python-in-containers/Docs/Create+Docker+ID.pdf
+./HOS/learn/python-in-containers/Docs/Creating_A_Django_Project_Views__URL_Patterns..pdf
+./HOS/learn/python-in-containers/Docs/Creating Development Environments with Vagrant - Second Edition [eBook].pdf
+./HOS/learn/python-in-containers/Docs/Cross-Defendants' Objections.pdf
+./HOS/learn/python-in-containers/Docs/Cross-Platform_Desktop_Applications_v7_MEAP.pdf
+./HOS/learn/python-in-containers/Docs/Cross-Platform_Desktop_Applications_v8_MEAP.pdf
+./HOS/learn/python-in-containers/Docs/CSS_in_Depth.pdf
+./HOS/learn/python-in-containers/Docs/CY21 Transition Policy- Ready for submission.pdf
+./HOS/learn/python-in-containers/Docs/Datalink_Efficiency_Tips_wpaper2010.pdf
+./HOS/learn/python-in-containers/Docs/Data_Science_Bookcamp.pdf
+./HOS/learn/python-in-containers/Docs/Data_Science_Bookcamp_v4_MEAP.pdf
+./HOS/learn/python-in-containers/Docs/Data_Science_Bookcamp_v5_MEAP.pdf
+./HOS/learn/python-in-containers/Docs/Data_Science_Bookcamp_v6_MEAP.pdf
+./HOS/learn/python-in-containers/Docs/debiancheatsheet.pdf
+./HOS/learn/python-in-containers/Docs/DecTMobile.pdf
+./HOS/learn/python-in-containers/Docs/Deep_Learning_with_Python.pdf
+./HOS/learn/python-in-containers/Docs/Deep_Learning_with_PyTorch.pdf
+./HOS/learn/python-in-containers/Docs/Deep_Learning_with_Structured_Data.pdf
+./HOS/learn/python-in-containers/Docs/Dell_-_File_Server_Migrations_Pain_in_Permissions.pdf
+./HOS/learn/python-in-containers/Docs/DeltaLoungeLocations.pdf
+./HOS/learn/python-in-containers/Docs/Deploying Node.js [eBook].pdf
+./HOS/learn/python-in-containers/Docs/Designing Next Generation Web Projects with CSS3 [eBook].pdf
+./HOS/learn/python-in-containers/Docs/DevOps Automation Cookbook [eBook].pdf
+./HOS/learn/python-in-containers/Docs/DevOps.pdf
+./HOS/learn/python-in-containers/Docs/Django+Containerization+for+Development.pdf
+./HOS/learn/python-in-containers/Docs/DjangoMasterclass.pdf
+./HOS/learn/python-in-containers/Docs/Django_ORM.pdf
+./HOS/learn/python-in-containers/Docs/django-resources.pdf
+./HOS/learn/python-in-containers/Docs/dmba.pdf
+./HOS/learn/python-in-containers/Docs/DMBARetirementApplicationPaymentOptions.pdf
+./HOS/learn/python-in-containers/Docs/doc02980320140623083959.pdf
+./HOS/learn/python-in-containers/Docs/doc08813820210525084900.pdf
+./HOS/learn/python-in-containers/Docs/Docker_CheatSheet_08.09.2016_0.pdf
+./HOS/learn/python-in-containers/Docs/docker-cheat-sheet.pdf
+./HOS/learn/python-in-containers/Docs/Docker+Compose+File+Details+-+Services.pdf
+./HOS/learn/python-in-containers/Docs/Docker+Compose+File+Details+-+Version+and+Volumes.pdf
+./HOS/learn/python-in-containers/Docs/Docker+Compose+-+Introduction.pdf
+./HOS/learn/python-in-containers/Docs/Dockerfile+Commands+-+ENV+LABEL+USER.pdf
+./HOS/learn/python-in-containers/Docs/Dockerfile+Commands+-+RUN.pdf
+./HOS/learn/python-in-containers/Docs/Dockerfile+Commands+-+VOLUME+and+EXPOSE.pdf
+./HOS/learn/python-in-containers/Docs/Docker+Hub+Introduction.pdf
+./HOS/learn/python-in-containers/Docs/Docker_in_Action.pdf
+./HOS/learn/python-in-containers/Docs/Docker_in_Action_Second_Edition.pdf
+./HOS/learn/python-in-containers/Docs/Docker_in_Practice.pdf
+./HOS/learn/python-in-containers/Docs/Docker_in_Practice_Second_Edition.pdf
+./HOS/learn/python-in-containers/Docs/Dockerizing+PyTest+and+Pdb+-+Simple+Case.pdf
+./HOS/learn/python-in-containers/Docs/Docker_Networking_and_Service_Discovery_NGINX.pdf
+./HOS/learn/python-in-containers/Docs/docker-recipes-sample.pdf
+./HOS/learn/python-in-containers/Docs/document-1.pdf
+./HOS/learn/python-in-containers/Docs/document(1).pdf
+./HOS/learn/python-in-containers/Docs/document-2.pdf
+./HOS/learn/python-in-containers/Docs/document.pdf
+./HOS/learn/python-in-containers/Docs/DoingMathwithPython.pdf
+./HOS/learn/python-in-containers/Docs/Download.pdf
+./HOS/learn/python-in-containers/Docs/Draft.pdf
+./HOS/learn/python-in-containers/Docs/Drupal 7 Themes [eBook].pdf
+./HOS/learn/python-in-containers/Docs/dsa_la.pdf
+./HOS/learn/python-in-containers/Docs/DSC.pdf
+./HOS/learn/python-in-containers/Docs/dyson.pdf
+./HOS/learn/python-in-containers/Docs/ebook._Streamlining_Medical_Image_Exchange_with_Cloud-Based_Technology_unbranded.pdf
+./HOS/learn/python-in-containers/Docs/ebook-theencryptionguide.pdf
+./HOS/learn/python-in-containers/Docs/E. Cheadle Benefit Summary.pdf
+./HOS/learn/python-in-containers/Docs/EDRDocument(3).pdf
+./HOS/learn/python-in-containers/Docs/EDRDocument(4).pdf
+./HOS/learn/python-in-containers/Docs/EDRDocument(5).pdf
+./HOS/learn/python-in-containers/Docs/EDRDocument.pdf
+./HOS/learn/python-in-containers/Docs/EDWARD - CERTIFICATE-ED.pdf
+./HOS/learn/python-in-containers/Docs/EDWARD - CERTIFICATE.pdf
+./HOS/learn/python-in-containers/Docs/Edward Cheadle 4-2-2021 Pay Stub.pdf
+./HOS/learn/python-in-containers/Docs/Edward.pdf
+./HOS/learn/python-in-containers/Docs/EdwardsMedications.pdf
+./HOS/learn/python-in-containers/Docs/EDWARD - TRUST-ED.pdf
+./HOS/learn/python-in-containers/Docs/EDWARD - TRUST.pdf
+./HOS/learn/python-in-containers/Docs/EDWARD - WILL.pdf
+./HOS/learn/python-in-containers/Docs/Elasticsearch_in_Action.pdf
+./HOS/learn/python-in-containers/Docs/elegantscipy.pdf
+./HOS/learn/python-in-containers/Docs/Emergency.pdf
+./HOS/learn/python-in-containers/Docs/employee_datareport_request.pdf
+./HOS/learn/python-in-containers/Docs/EN-05-10043.pdf
+./HOS/learn/python-in-containers/Docs/EN-05-10530.pdf
+./HOS/learn/python-in-containers/Docs/ENG_US_KTMATSCL-3.0.8.pdf
+./HOS/learn/python-in-containers/Docs/eReceipt.pdf
+./HOS/learn/python-in-containers/Docs/ESCC2014ProxyStatement.pdf
+./HOS/learn/python-in-containers/Docs/essentialsofmodernalgebra.pdf
+./HOS/learn/python-in-containers/Docs/EUA_27034_FS_for_Recipients_and_Caregivers_myocarditis_pericarditis_Final_6-25-2021_AccessFixed.pdf
+./HOS/learn/python-in-containers/Docs/Eventbbight1-registration (1) (1).pdf
+./HOS/learn/python-in-containers/Docs/EX6400_UM_EN.pdf
+./HOS/learn/python-in-containers/Docs/._Exercise-01-CreatingaLocalLabEnvironment.pdf
+./HOS/learn/python-in-containers/Docs/Exercise-01-CreatingaLocalLabEnvironment.pdf
+./HOS/learn/python-in-containers/Docs/._Exercise-02-Creating-Local-Users-01.pdf
+./HOS/learn/python-in-containers/Docs/Exercise-02-Creating-Local-Users-01.pdf
+./HOS/learn/python-in-containers/Docs/._Exercise-03-Creating-Local-Users-02.pdf
+./HOS/learn/python-in-containers/Docs/Exercise-03-Creating-Local-Users-02.pdf
+./HOS/learn/python-in-containers/Docs/._Exercise-04-Creating-Local-Users-03.pdf
+./HOS/learn/python-in-containers/Docs/Exercise-04-Creating-Local-Users-03.pdf
+./HOS/learn/python-in-containers/Docs/._Exercise-05-Deleting-Local-Users-04.pdf
+./HOS/learn/python-in-containers/Docs/Exercise-05-Deleting-Local-Users-04.pdf
+./HOS/learn/python-in-containers/Docs/._Exercise-06-Parsing-Log-Files-05.pdf
+./HOS/learn/python-in-containers/Docs/Exercise-06-Parsing-Log-Files-05.pdf
+./HOS/learn/python-in-containers/Docs/._Exercise-07-Scripting-Remote-Commands-01.pdf
+./HOS/learn/python-in-containers/Docs/Exercise-07-Scripting-Remote-Commands-01.pdf
+./HOS/learn/python-in-containers/Docs/EXHIBIT A - 2006-05-12 Original Bylaws of REW.pdf
+./HOS/learn/python-in-containers/Docs/EXHIBIT A -  PROPOSED ARBITRATION AWARD.pdf
+./HOS/learn/python-in-containers/Docs/EXHIBIT A - Resp Answering Statement.pdf
+./HOS/learn/python-in-containers/Docs/EXHIBIT A (Voting Trust Agreement).pdf
+./HOS/learn/python-in-containers/Docs/EXHIBIT B - Obj re Necessary Parties.pdf
+./HOS/learn/python-in-containers/Docs/EXHIBIT B (Shareholders' Agreement).pdf
+./HOS/learn/python-in-containers/Docs/EXHIBIT B - Voting Trust Agreement.pdf
+./HOS/learn/python-in-containers/Docs/EXHIBIT C (McMahon Deposition Excerpts).pdf
+./HOS/learn/python-in-containers/Docs/EXHIBIT C - Respondent's Brief.pdf
+./HOS/learn/python-in-containers/Docs/EXHIBIT C - Shareholders' Agreement.pdf
+./HOS/learn/python-in-containers/Docs/EXHIBIT D - 2013-05-10 Annual SH Meeting Minutes.pdf
+./HOS/learn/python-in-containers/Docs/EXHIBIT D (Am Pet in Arb).pdf
+./HOS/learn/python-in-containers/Docs/EXHIBIT E (Award).pdf
+./HOS/learn/python-in-containers/Docs/EXHIBIT E - Higginson Offer to Martin.pdf
+./HOS/learn/python-in-containers/Docs/EXHIBIT F - Amended Petition in Arbitration.pdf
+./HOS/learn/python-in-containers/Docs/EXHIBIT F (Joint Exh. List).pdf
+./HOS/learn/python-in-containers/Docs/EXHIBIT G (E-mail Submitting Consent Award).pdf
+./HOS/learn/python-in-containers/Docs/EXHIBIT G -  PROPOSED ARBITRATION AWARD.pdf
+./HOS/learn/python-in-containers/Docs/EXHIBIT H (Consent Award).pdf
+./HOS/learn/python-in-containers/Docs/EXHIBIT I (E-mail Qs from Arbitrators Re Consent Award).pdf
+./HOS/learn/python-in-containers/Docs/Expert Python Programming [eBook].pdf
+./HOS/learn/python-in-containers/Docs/Expired.pdf
+./HOS/learn/python-in-containers/Docs/ExplodedView.pdf
+./HOS/learn/python-in-containers/Docs/Express_in_Action.pdf
+./HOS/learn/python-in-containers/Docs/f1099sa_2020.pdf
+./HOS/learn/python-in-containers/Docs/f1310.pdf
+./HOS/learn/python-in-containers/Docs/Feb12.pdf
+./HOS/learn/python-in-containers/Docs/FIle1.pdf
+./HOS/learn/python-in-containers/Docs/file5.pdf
+./HOS/learn/python-in-containers/Docs/file6.pdf
+./HOS/learn/python-in-containers/Docs/filesave.pdf
+./HOS/learn/python-in-containers/Docs/FINAL+-+List+of+Alleged+Abusers+-+SBC+REDACTED.pdf
+./HOS/learn/python-in-containers/Docs/Final.pdf
+./HOS/learn/python-in-containers/Docs/FireMeIBegYou.pdf
+./HOS/learn/python-in-containers/Docs/Five_Lines_of_Code_v5_MEAP.pdf
+./HOS/learn/python-in-containers/Docs/flaskwebdevelopment.pdf
+./HOS/learn/python-in-containers/Docs/flexMachine.pdf
+./HOS/learn/python-in-containers/Docs/fluentpython.pdf
+./HOS/learn/python-in-containers/Docs/FM-Defendants' Response to Martin's Motion to Vacate Award to efile (1).pdf
+./HOS/learn/python-in-containers/Docs/forward.pdf
+./HOS/learn/python-in-containers/Docs/foundations_of_python_network_programming_2nd_edition.pdf
+./HOS/learn/python-in-containers/Docs/freebsdmanual.pdf
+./HOS/learn/python-in-containers/Docs/FreeSWITCH Cookbook [eBook].pdf
+./HOS/learn/python-in-containers/Docs/Front-End_Tooling_with_Gulp_Bower_and__v8_MEAP.pdf
+./HOS/learn/python-in-containers/Docs/Full_Stack_Python_Security_v4_MEAP.pdf
+./HOS/learn/python-in-containers/Docs/Further Reading - Python.pdf
+./HOS/learn/python-in-containers/Docs/fy_2020_annual_performance_report.pdf
+./HOS/learn/python-in-containers/Docs/general_var_Access_Fixed.pdf
+./HOS/learn/python-in-containers/Docs/generic-scope-of-appointment-form-2ndpage.pdf
+./HOS/learn/python-in-containers/Docs/Geoprocessing_with_P_v14_MEAP.pdf
+./HOS/learn/python-in-containers/Docs/Geoprocessing_with_Python.pdf
+./HOS/learn/python-in-containers/Docs/GetDocument.pdf
+./HOS/learn/python-in-containers/Docs/Get_Programming.pdf
+./HOS/learn/python-in-containers/Docs/Get_Programming_with_JavaScript_v5_MEAP.pdf
+./HOS/learn/python-in-containers/Docs/Getting_MEAN_with_Mo.pdf
+./HOS/learn/python-in-containers/Docs/Getting_MEAN_with_Mo_v12_MEAP.pdf
+./HOS/learn/python-in-containers/Docs/GettingStartedDropBox.pdf
+./HOS/learn/python-in-containers/Docs/Getting Started with Grunt_ The JavaScript Task Runner [eBook].pdf
+./HOS/learn/python-in-containers/Docs/Getting Started with Hazelcast [eBook].pdf
+./HOS/learn/python-in-containers/Docs/GettingStartedwithMariaDB[eBook].pdf
+./HOS/learn/python-in-containers/Docs/Getting Started with NoSQL [eBook].pdf
+./HOS/learn/python-in-containers/Docs/Getting Started with ownCloud [eBook].pdf
+./HOS/learn/python-in-containers/Docs/Giraph_in_Action_v5_MEAP.pdf
+./HOS/learn/python-in-containers/Docs/Git+&+Github_+Branching.pdf
+./HOS/learn/python-in-containers/Docs/Git_in_Practice.pdf
+./HOS/learn/python-in-containers/Docs/GitOps_and_Kubernetes.pdf
+./HOS/learn/python-in-containers/Docs/GitOps_and_Kubernetes_v7_MEAP.pdf
+./HOS/learn/python-in-containers/Docs/Git_ Version Control for Everyone [eBook].pdf
+./HOS/learn/python-in-containers/Docs/GitVersionControl.pdf
+./HOS/learn/python-in-containers/Docs/GlobalTrends_2030.pdf
+./HOS/learn/python-in-containers/Docs/GNU-FDL-OO-LPI-201-0.1.pdf
+./HOS/learn/python-in-containers/Docs/Go_in_Action.pdf
+./HOS/learn/python-in-containers/Docs/Go_Web_Programming_v10_MEAP.pdf
+./HOS/learn/python-in-containers/Docs/GPO-CDOC-106sdoc21.pdf
+./HOS/learn/python-in-containers/Docs/Graph_Databases_2e_Neo4j.pdf
+./HOS/learn/python-in-containers/Docs/Grokking_Algorithms.pdf
+./HOS/learn/python-in-containers/Docs/Grokking_Continuous_Delivery_v11.pdf
+./HOS/learn/python-in-containers/Docs/Grokking_Continuous_Delivery_v1.pdf
+./HOS/learn/python-in-containers/Docs/Grokking_Functional_Programming_v14_MEAP.pdf
+./HOS/learn/python-in-containers/Docs/Grokking_Machine_Learning.pdf
+./HOS/learn/python-in-containers/Docs/Grokking_Simplicity.pdf
+./HOS/learn/python-in-containers/Docs/gtid_replication-implementation_and_troubleshooting2.pdf
+./HOS/learn/python-in-containers/Docs/GuidetoKDE.pdf
+./HOS/learn/python-in-containers/Docs/HackingVim7.2[eBook].pdf
+./HOS/learn/python-in-containers/Docs/hadoop_app_architectures_preview_ed.pdf
+./HOS/learn/python-in-containers/Docs/Hadoop Beginner's Guide [eBook].pdf
+./HOS/learn/python-in-containers/Docs/HadoopIluminated.pdf
+./HOS/learn/python-in-containers/Docs/Hadoop_in_Practice.pdf
+./HOS/learn/python-in-containers/Docs/Hadoop_in_Practice__v7_PUBLISH.pdf
+./HOS/learn/python-in-containers/Docs/Hadoop MapReduce Cookbook [eBook].pdf
+./HOS/learn/python-in-containers/Docs/hand.pdf
+./HOS/learn/python-in-containers/Docs/hands-onbooting.pdf
+./HOS/learn/python-in-containers/Docs/hands_on_with_hadoop.pdf
+./HOS/learn/python-in-containers/Docs/hapi.js_in_Action_v9_MEAP.pdf
+./HOS/learn/python-in-containers/Docs/Harrison_book.pdf
+./HOS/learn/python-in-containers/Docs/HA_SolutionsForWindowssqlExchange.pdf
+./HOS/learn/python-in-containers/Docs/Hazelcast_Code_Reference_Card_r1.9.pdf
+./HOS/learn/python-in-containers/Docs/Hazelcast_Deployment_And_Operations_Guide_v0.4_web.pdf
+./HOS/learn/python-in-containers/Docs/HBase Administration Cookbook [eBook].pdf
+./HOS/learn/python-in-containers/Docs/Head First JavaScript.pdf
+./HOS/learn/python-in-containers/Docs/._heap.pdf
+./HOS/learn/python-in-containers/Docs/heap.pdf
+./HOS/learn/python-in-containers/Docs/Helicopter+View+of+Kubernetes+as+the+Application+Platform.pdf
+./HOS/learn/python-in-containers/Docs/hellobigdata.pdf
+./HOS/learn/python-in-containers/Docs/Hello!_Python.pdf
+./HOS/learn/python-in-containers/Docs/Hello_World!_Compute.pdf
+./HOS/learn/python-in-containers/Docs/Hello_World!.pdf
+./HOS/learn/python-in-containers/Docs/help.pdf
+./HOS/learn/python-in-containers/Docs/High Availability MySQL Cookbook [eBook].pdf
+./HOS/learn/python-in-containers/Docs/home.pdf
+./HOS/learn/python-in-containers/Docs/HouseAgreement.pdf
+./HOS/learn/python-in-containers/Docs/How to find your pressures.pdf
+./HOS/learn/python-in-containers/Docs/How we did it.pdf
+./HOS/learn/python-in-containers/Docs/HPE_a00061446en_us_HPEInfoSightforServersUserGuide.pdf
+./HOS/learn/python-in-containers/Docs/hplinux.pdf
+./HOS/learn/python-in-containers/Docs/HPSumInstallation.pdf
+./HOS/learn/python-in-containers/Docs/HTML5-cheat-sheet.pdf
+./HOS/learn/python-in-containers/Docs/HTML5 Data and Services Cookbook [eBook].pdf
+./HOS/learn/python-in-containers/Docs/HTML5 Game Development with GameMaker [eBook].pdf
+./HOS/learn/python-in-containers/Docs/HTML5 Web Application Development By Example _ Beginner's guide [eBook].pdf
+./HOS/learn/python-in-containers/Docs/HTTP_2_in_Action.pdf
+./HOS/learn/python-in-containers/Docs/Hugo_in_Action_v6_MEAP.pdf
+./HOS/learn/python-in-containers/Docs/IBMBigData.pdf
+./HOS/learn/python-in-containers/Docs/IBM.PureApplicationSystem.pdf
+./HOS/learn/python-in-containers/Docs/IDP_Application2a.pdf
+./HOS/learn/python-in-containers/Docs/._illustratedpy3.pdf
+./HOS/learn/python-in-containers/Docs/illustratedpy3.pdf
+./HOS/learn/python-in-containers/Docs/Impact DNW07 UCS Ansible Collection Lab Guide.pdf
+./HOS/learn/python-in-containers/Docs/Implementing Cloud Design Patterns for AWS [eBook].pdf
+./HOS/learn/python-in-containers/Docs/ImpracticalPython.pdf
+./HOS/learn/python-in-containers/Docs/infoworld_private_cloud_insider.pdf
+./HOS/learn/python-in-containers/Docs/Infrastructure_as_Code_Patterns_and_Pra_v8.pdf
+./HOS/learn/python-in-containers/Docs/Initial.pdf
+./HOS/learn/python-in-containers/Docs/Install+Docker+on+Ubuntu.pdf
+./HOS/learn/python-in-containers/Docs/Installing+a+Small+Kubernetes+Cluster.pdf
+./HOS/learn/python-in-containers/Docs/Install Netconsole.pdf
+./HOS/learn/python-in-containers/Docs/Instant Handlebars.js [eBook].pdf
+./HOS/learn/python-in-containers/Docs/Instant MongoDB [eBook].pdf
+./HOS/learn/python-in-containers/Docs/Instant OpenCV Starter [eBook].pdf
+./HOS/learn/python-in-containers/Docs/Instant PostgreSQL Starter [eBook].pdf
+./HOS/learn/python-in-containers/Docs/Instant Puppet 3 Starter [eBook].pdf
+./HOS/learn/python-in-containers/Docs/introducingregularexpressions.pdf
+./HOS/learn/python-in-containers/Docs/Introduction_To_Django.pdf
+./HOS/learn/python-in-containers/Docs/Introduction+to+Docker.pdf
+./HOS/learn/python-in-containers/Docs/Introduction+to+Kubernetes.pdf
+./HOS/learn/python-in-containers/Docs/IntrusionDetectionwithSnort.pdf
+./HOS/learn/python-in-containers/Docs/inventyourowncomputergameswithpython.pdf
+./HOS/learn/python-in-containers/Docs/Invoice 27566 for Edward C. Cheadle and Carolyn S. Knight - Jennifer Knight - Traffic Ticket - SONF.pdf
+./HOS/learn/python-in-containers/Docs/ip_address.pdf
+./HOS/learn/python-in-containers/Docs/IPython Interactive Computing and Visualization Cookbook [eBook].pdf
+./HOS/learn/python-in-containers/Docs/iris.pdf
+./HOS/learn/python-in-containers/Docs/Irresistible_APIs_v7_MEAP.pdf
+./HOS/learn/python-in-containers/Docs/ITSecurityforDummies_8502[1].pdf
+./HOS/learn/python-in-containers/Docs/Jan12.pdf
+./HOS/learn/python-in-containers/Docs/JavaScript_Applicati.pdf
+./HOS/learn/python-in-containers/Docs/JavaScriptDataStructAndAlgorithms--colorpages.pdf
+./HOS/learn/python-in-containers/Docs/JavaScript Testing Beginner's Guide  [eBook].pdf
+./HOS/learn/python-in-containers/Docs/JavascripttoGo.pdf
+./HOS/learn/python-in-containers/Docs/JavaScript Unit Testing [eBook].pdf
+./HOS/learn/python-in-containers/Docs/JBoss Drools Business Rules [eBook].pdf
+./HOS/learn/python-in-containers/Docs/Jenkins Continuous Integration Cookbook - Second Edition [eBook].pdf
+./HOS/learn/python-in-containers/Docs/Jenn1099-2020.pdf
+./HOS/learn/python-in-containers/Docs/Jennifer Knight script.pdf
+./HOS/learn/python-in-containers/Docs/JOINT TIMELINE.pdf
+./HOS/learn/python-in-containers/Docs/jquery_succinctly.pdf
+./HOS/learn/python-in-containers/Docs/Kali Linux – Assuring Security by Penetration Testing [eBook].pdf
+./HOS/learn/python-in-containers/Docs/Kanban_in_Action.pdf
+./HOS/learn/python-in-containers/Docs/Kaseya_-_Managing_Complexity_Todays_Hybrid_IT_Environments.pdf
+./HOS/learn/python-in-containers/Docs/KevinMemory.pdf
+./HOS/learn/python-in-containers/Docs/keyboard-shortcuts-linux.pdf
+./HOS/learn/python-in-containers/Docs/keyboard-shortcuts-windows.pdf
+./HOS/learn/python-in-containers/Docs/kjwebcoupon_2016.pdf
+./HOS/learn/python-in-containers/Docs/Knative_in_Action.pdf
+./HOS/learn/python-in-containers/Docs/KScan VM vbs Users Guide.pdf
+./HOS/learn/python-in-containers/Docs/kubernetes-101.pdf
+./HOS/learn/python-in-containers/Docs/Kubernetes_in_Action_Second_Edition_v13.pdf
+./HOS/learn/python-in-containers/Docs/Kubernetes_Quickly_v4_MEAP.pdf
+./HOS/learn/python-in-containers/Docs/._LABs.pdf
+./HOS/learn/python-in-containers/Docs/LABs.pdf
+./HOS/learn/python-in-containers/Docs/LaTex Beginner's Guide [eBook].pdf
+./HOS/learn/python-in-containers/Docs/LeanEngineering.pdf
+./HOS/learn/python-in-containers/Docs/Learn_Active_Directo.pdf
+./HOS/learn/python-in-containers/Docs/Learn_Android_Fundam_v3_MEAP.pdf
+./HOS/learn/python-in-containers/Docs/Learn_ConfigMgr_2012_v12_MEAP.pdf
+./HOS/learn/python-in-containers/Docs/Learn_ConfigMgr_2012_v9_MEAP.pdf
+./HOS/learn/python-in-containers/Docs/Learn+DevOps+-+terraform.pdf
+./HOS/learn/python-in-containers/Docs/Learn_Docker_in_a_Month_of_Lunches.pdf
+./HOS/learn/python-in-containers/Docs/Learn_Git_in_a_Month.pdf
+./HOS/learn/python-in-containers/Docs/Learn_Go_v5_MEAP.pdf
+./HOS/learn/python-in-containers/Docs/Learn HTML5 by Creating Fun Games [eBook].pdf
+./HOS/learn/python-in-containers/Docs/LearningAnsible.pdf
+./HOS/learn/python-in-containers/Docs/Learning Behavior-driven Development with JavaScript [eBook].pdf
+./HOS/learn/python-in-containers/Docs/Learning Gerrit Code Review [eBook].pdf
+./HOS/learn/python-in-containers/Docs/Learning IPython for Interactive Computing and Data Visualization [eBook].pdf
+./HOS/learn/python-in-containers/Docs/Learning JavaScript Data Structures and Algorithms [eBook].pdf
+./HOS/learn/python-in-containers/Docs/Learning JavaScriptMVC [eBook].pdf
+./HOS/learn/python-in-containers/Docs/Learning Play! Framework 2 [eBook].pdf
+./HOS/learn/python-in-containers/Docs/Learning PowerCLI [eBook].pdf
+./HOS/learn/python-in-containers/Docs/Learning Python Design Patterns [eBook].pdf
+./HOS/learn/python-in-containers/Docs/Learning QlikÂ® Sense_ The Official Guide [eBook].pdf
+./HOS/learn/python-in-containers/Docs/LearningRHELNetworking[eBook].pdf
+./HOS/learn/python-in-containers/Docs/Learning RStudio for R Statistical Computing [eBook].pdf
+./HOS/learn/python-in-containers/Docs/Learning Software Testing with Test Studio [eBook].pdf
+./HOS/learn/python-in-containers/Docs/LearningVirtualDub2.pdf
+./HOS/learn/python-in-containers/Docs/LearningVirtualDub.pdf
+./HOS/learn/python-in-containers/Docs/Learning Web Component Development [eBook].pdf
+./HOS/learn/python-in-containers/Docs/Learning Yeoman [eBook].pdf
+./HOS/learn/python-in-containers/Docs/learn_java_for_android_development_2nd_edition.pdf
+./HOS/learn/python-in-containers/Docs/Learn_Kubernetes_in_a_Month_of_Lunches.pdf
+./HOS/learn/python-in-containers/Docs/Learn_PowerShell_Toolmaking.pdf
+./HOS/learn/python-in-containers/Docs/LearnSCCM2012inaMonthofLunches.pdf
+./HOS/learn/python-in-containers/Docs/LearnSQLServer2012inaMonthofLunches.pdf
+./HOS/learn/python-in-containers/Docs/Learn_SQL_Server_Adm.pdf
+./HOS/learn/python-in-containers/Docs/Learn_SQL_Server_Adm_v3_MEAP.pdf
+./HOS/learn/python-in-containers/Docs/Learn_System_Center_Configuration_Manage_v14_MEAP.pdf
+./HOS/learn/python-in-containers/Docs/LearntoProgramWithScratch.pdf
+./HOS/learn/python-in-containers/Docs/Learn_Windows_IIS_inaMonthofLunchs.pdf
+./HOS/learn/python-in-containers/Docs/Learn_Windows_PowerShell.pdf
+./HOS/learn/python-in-containers/Docs/Learn_Windows_PowerS.pdf
+./HOS/learn/python-in-containers/Docs/LE-SA-v1.2-November-15-2017.pdf
+./HOS/learn/python-in-containers/Docs/LetsEncrypt-Project-Instructions.pdf
+./HOS/learn/python-in-containers/Docs/LFS-BOOK-11.0.pdf
+./HOS/learn/python-in-containers/Docs/LFS-BOOK-11.0-systemd.pdf
+./HOS/learn/python-in-containers/Docs/linearalgebra.pdf
+./HOS/learn/python-in-containers/Docs/linear-guest.pdf
+./HOS/learn/python-in-containers/Docs/Linked_Data.pdf
+./HOS/learn/python-in-containers/Docs/Linkedin.pdf
+./HOS/learn/python-in-containers/Docs/Linode-MSPeBook.pdf
+./HOS/learn/python-in-containers/Docs/linuxall-in-onefordummies.pdf
+./HOS/learn/python-in-containers/Docs/linux-commands-cheat-sheet-pnap.pdf
+./HOS/learn/python-in-containers/Docs/LinuxEmail[eBook].pdf
+./HOS/learn/python-in-containers/Docs/LinuxHighAvailibilty.pdf
+./HOS/learn/python-in-containers/Docs/Linux_in_Action.pdf
+./HOS/learn/python-in-containers/Docs/linuxnet.pdf
+./HOS/learn/python-in-containers/Docs/LinuxPatchManagement.pdf
+./HOS/learn/python-in-containers/Docs/LinuxProblemDetermination.pdf
+./HOS/learn/python-in-containers/Docs/linuxsec.pdf
+./HOS/learn/python-in-containers/Docs/LinuxShellScriptingCookbook-SecondEdition[eBook].pdf
+./HOS/learn/python-in-containers/Docs/Linux_Shell_Scripting_Cookbook_Second_Edition.pdf
+./HOS/learn/python-in-containers/Docs/linuxsrv.pdf
+./HOS/learn/python-in-containers/Docs/linuxsys.pdf
+./HOS/learn/python-in-containers/Docs/LinuxToolBox.pdf
+./HOS/learn/python-in-containers/Docs/logo.pdf
+./HOS/learn/python-in-containers/Docs/Louvre.pdf
+./HOS/learn/python-in-containers/Docs/lpic-1_linuxprofessionalinstitutecertificationstudyguide_exams101_102.pdf
+./HOS/learn/python-in-containers/Docs/lpic-2_linuxprofessionalinstitutecertificationstudyguide_exams201_202.pdf
+./HOS/learn/python-in-containers/Docs/LPM_240-20_Digisub.pdf
+./HOS/learn/python-in-containers/Docs/M-000343515-EDWARD CLEMENT CHEADLE .pdf
+./HOS/learn/python-in-containers/Docs/Machine_Learning_Bookcamp.pdf
+./HOS/learn/python-in-containers/Docs/Machine_Learning_Bookcamp_v7_MEAP.pdf
+./HOS/learn/python-in-containers/Docs/Machine_Learning_Bookcamp_v8_MEAP.pdf
+./HOS/learn/python-in-containers/Docs/Machine_Learning_Bookcamp_v9_MEAP.pdf
+./HOS/learn/python-in-containers/Docs/ma-enterprise-automation-in-devops-checklist-f25511pr-202010-en.pdf
+./HOS/learn/python-in-containers/Docs/MagPi38.pdf
+./HOS/learn/python-in-containers/Docs/ManageProliantserverswithLinux.pdf
+./HOS/learn/python-in-containers/Docs/Managing+Containers.pdf
+./HOS/learn/python-in-containers/Docs/Managing+Images+with+Docker+Compose.pdf
+./HOS/learn/python-in-containers/Docs/Manual+Image+Build+Process.pdf
+./HOS/learn/python-in-containers/Docs/Mar12.pdf
+./HOS/learn/python-in-containers/Docs/Marketing Book Bundle.pdf
+./HOS/learn/python-in-containers/Docs/MarketIntel.pdf
+./HOS/learn/python-in-containers/Docs/MasteringCentOS7LinuxServer[eBook].pdf
+./HOS/learn/python-in-containers/Docs/Mastering Docker [eBook].pdf
+./HOS/learn/python-in-containers/Docs/Mastering GeoServer [eBook].pdf
+./HOS/learn/python-in-containers/Docs/Mastering_Hazelcast.pdf
+./HOS/learn/python-in-containers/Docs/Mastering HTML5 Forms [eBook].pdf
+./HOS/learn/python-in-containers/Docs/masteringidentityandaccessmanagement.pdf
+./HOS/learn/python-in-containers/Docs/Mastering JavaScript High Performance [eBook].pdf
+./HOS/learn/python-in-containers/Docs/MasteringLinuxNetworkAdministration[eBook].pdf
+./HOS/learn/python-in-containers/Docs/Mastering Ninject for Dependency Injection [eBook].pdf
+./HOS/learn/python-in-containers/Docs/Mastering Object-oriented Python [eBook].pdf
+./HOS/learn/python-in-containers/Docs/Mastering OpenStack [eBook].pdf
+./HOS/learn/python-in-containers/Docs/Mastering Python Regular Expressions [eBook].pdf
+./HOS/learn/python-in-containers/Docs/Mastering Redmine [eBook].pdf
+./HOS/learn/python-in-containers/Docs/Mastering Web Application Development with AngularJS [eBook].pdf
+./HOS/learn/python-in-containers/Docs/Mastering Windows PowerShell Scripting [eBook].pdf
+./HOS/learn/python-in-containers/Docs/Mastering Wireless Penetration Testing for Highly Secured Environments [eBook].pdf
+./HOS/learn/python-in-containers/Docs/MathAdventuresWithPython.pdf
+./HOS/learn/python-in-containers/Docs/mathematicsforcomputergraphicsandgameprogramming.pdf
+./HOS/learn/python-in-containers/Docs/Math_for_Programmers.pdf
+./HOS/learn/python-in-containers/Docs/matplotlib.pdf
+./HOS/learn/python-in-containers/Docs/MCDOC01771194_VCI236DS-36-INCH-CUSTOM-INSERT-Specifications.pdf
+./HOS/learn/python-in-containers/Docs/MEAN Web Development [eBook].pdf
+./HOS/learn/python-in-containers/Docs/Med Form(1).pdf
+./HOS/learn/python-in-containers/Docs/Med Form.pdf
+./HOS/learn/python-in-containers/Docs/MediaWiki 1.1 Beginner's Guide [eBook].pdf
+./HOS/learn/python-in-containers/Docs/MediaWiki Administrators’ Tutorial Guide [ebook].pdf
+./HOS/learn/python-in-containers/Docs/medicare-flyer.pdf
+./HOS/learn/python-in-containers/Docs/MedicarePartB611171.pdf
+./HOS/learn/python-in-containers/Docs/memory_hole.pdf
+./HOS/learn/python-in-containers/Docs/Memory.pdf
+./HOS/learn/python-in-containers/Docs/Mesos_in_Action.pdf
+./HOS/learn/python-in-containers/Docs/mesos.pdf
+./HOS/learn/python-in-containers/Docs/Metasploit Penetration Testing Cookbook [eBook].pdf
+./HOS/learn/python-in-containers/Docs/Meteor_in_Action.pdf
+./HOS/learn/python-in-containers/Docs/MG_Intro.pdf
+./HOS/learn/python-in-containers/Docs/Microservices_in_Action.pdf
+./HOS/learn/python-in-containers/Docs/Microsoft_Press_ebook_SystemCenterDesigningOrchestratorRunbooks_PDF.pdf
+./HOS/learn/python-in-containers/Docs/MIS_Overview.pdf
+./HOS/learn/python-in-containers/Docs/MK62_QSG_EN.pdf
+./HOS/learn/python-in-containers/Docs/MK62_UM_EN(1).pdf
+./HOS/learn/python-in-containers/Docs/MK62_UM_EN.pdf
+./HOS/learn/python-in-containers/Docs/MKTG_Special_Tax_Notice.pdf
+./HOS/learn/python-in-containers/Docs/MODERNA fact sheet english and spanish.pdf
+./HOS/learn/python-in-containers/Docs/MongoDB Cookbook [eBook].pdf
+./HOS/learn/python-in-containers/Docs/MongoDB Data Modeling [eBook].pdf
+./HOS/learn/python-in-containers/Docs/Mongoose for Application Development [eBook].pdf
+./HOS/learn/python-in-containers/Docs/Moodle 2.0 E-Learning Course Development [eBook].pdf
+./HOS/learn/python-in-containers/Docs/Motion for Continuance.pdf
+./HOS/learn/python-in-containers/Docs/Motion to Vacate.pdf
+./HOS/learn/python-in-containers/Docs/move.pdf
+./HOS/learn/python-in-containers/Docs/mozilla.pdf
+./HOS/learn/python-in-containers/Docs/MSJ to AAA part 3.pdf
+./HOS/learn/python-in-containers/Docs/MS-NetlogOnProto.pdf
+./HOS/learn/python-in-containers/Docs/MSS_WinRM_Installation-20120904_v1-8.pdf
+./HOS/learn/python-in-containers/Docs/MV_Tale_of_Two_Workloads.pdf
+./HOS/learn/python-in-containers/Docs/MyChart - Medications.pdf
+./HOS/learn/python-in-containers/Docs/MySQL Admin Cookbook [eBook].pdf
+./HOS/learn/python-in-containers/Docs/mysql-cluster-manager-8.0-en.a4.pdf
+./HOS/learn/python-in-containers/Docs/Nano+Project+-+ANP001.pdf
+./HOS/learn/python-in-containers/Docs/NATPOLICE.pdf
+./HOS/learn/python-in-containers/Docs/NaviantPayoff.pdf
+./HOS/learn/python-in-containers/Docs/ndtx_biennial_review_report.final__0.pdf
+./HOS/learn/python-in-containers/Docs/Network Analysis using Wireshark Cookbook [eBook].pdf
+./HOS/learn/python-in-containers/Docs/NetworkComputing_2010_06.pdf
+./HOS/learn/python-in-containers/Docs/networking deep dive.pdf
+./HOS/learn/python-in-containers/Docs/NewRelic-DevOps-Primer.pdf
+./HOS/learn/python-in-containers/Docs/NGINX_Cookbook-final.pdf
+./HOS/learn/python-in-containers/Docs/NGINX_Cookbook.pdf
+./HOS/learn/python-in-containers/Docs/Node Cookbook [eBook].pdf
+./HOS/learn/python-in-containers/Docs/._NODE-JS-1.pdf
+./HOS/learn/python-in-containers/Docs/NODE-JS-1.pdf
+./HOS/learn/python-in-containers/Docs/Node.js Blueprints [eBook].pdf
+./HOS/learn/python-in-containers/Docs/Node.js Essentials [eBook].pdf
+./HOS/learn/python-in-containers/Docs/Node.js_in_Action.pdf
+./HOS/learn/python-in-containers/Docs/Node.js_in_Practice.pdf
+./HOS/learn/python-in-containers/Docs/Node Web Development - Second Edition [eBook].pdf
+./HOS/learn/python-in-containers/Docs/notes.pdf
+./HOS/learn/python-in-containers/Docs/Notice of Formulary Changes - Medicare Part D Enhanced & Medicare Advantage plans - 2021, Utah(1).pdf
+./HOS/learn/python-in-containers/Docs/Notice of Formulary Changes - Medicare Part D Enhanced & Medicare Advantage plans - 2021, Utah(2).pdf
+./HOS/learn/python-in-containers/Docs/Notice of Formulary Changes - Medicare Part D Enhanced & Medicare Advantage plans - 2021, Utah(3).pdf
+./HOS/learn/python-in-containers/Docs/Notice of Formulary Changes - Medicare Part D Enhanced & Medicare Advantage plans - 2021, Utah.pdf
+./HOS/learn/python-in-containers/Docs/NovTmobile.pdf
+./HOS/learn/python-in-containers/Docs/NW.js_in_Action_v6_MEAP.pdf
+./HOS/learn/python-in-containers/Docs/OAuth_2_in_Action_v6_MEAP.pdf
+./HOS/learn/python-in-containers/Docs/Object-Oriented JavaScript - Second Edition [eBook].pdf
+./HOS/learn/python-in-containers/Docs/Object-Oriented Programming in ColdFusion [eBook] .pdf
+./HOS/learn/python-in-containers/Docs/OctTmobile.pdf
+./HOS/learn/python-in-containers/Docs/Official Trusted Traveler Program Website | Department of Homeland Security.pdf
+./HOS/learn/python-in-containers/Docs/._onepager.pdf
+./HOS/learn/python-in-containers/Docs/onepager.pdf
+./HOS/learn/python-in-containers/Docs/Onshore Outsourcing.pdf
+./HOS/learn/python-in-containers/Docs/OpenCV Computer Vision with Python [eBook].pdf
+./HOS/learn/python-in-containers/Docs/openintro-statistics.pdf
+./HOS/learn/python-in-containers/Docs/OpenLayers 2.10 Beginner's Guide [eBook].pdf
+./HOS/learn/python-in-containers/Docs/OpenSceneGraph 3.0_ Beginner's Guide [eBook].pdf
+./HOS/learn/python-in-containers/Docs/OpenStack-6x9Booklet-online.pdf
+./HOS/learn/python-in-containers/Docs/OpenStack Administration with Ansible [eBook].pdf
+./HOS/learn/python-in-containers/Docs/OpenStack Cloud Computing Cookbook - Second Edition [eBook].pdf
+./HOS/learn/python-in-containers/Docs/OpenStack_in_Action.pdf
+./HOS/learn/python-in-containers/Docs/openstack-map-v20210201.pdf
+./HOS/learn/python-in-containers/Docs/openstack-private-cloud-roi-report.pdf
+./HOS/learn/python-in-containers/Docs/Orchestrating Docker [eBook].pdf
+./HOS/learn/python-in-containers/Docs/OrderConfirmationTermsAgreement.pdf
+./HOS/learn/python-in-containers/Docs/oreilly-openstack-ops-guide.pdf
+./HOS/learn/python-in-containers/Docs/OU2-Difference-Between-ML-DL-AI.pdf
+./HOS/learn/python-in-containers/Docs/._output.pdf
+./HOS/learn/python-in-containers/Docs/output.pdf
+./HOS/learn/python-in-containers/Docs/packtpublishingmasteringopenldapaug20071847191029.pdf
+./HOS/learn/python-in-containers/Docs/Parallel Programming with Python [eBook].pdf
+./HOS/learn/python-in-containers/Docs/patientcard(1).pdf
+./HOS/learn/python-in-containers/Docs/patientcard.pdf
+./HOS/learn/python-in-containers/Docs/PE618_Updated_021616.pdf
+./HOS/learn/python-in-containers/Docs/PensionPayoff.pdf
+./HOS/learn/python-in-containers/Docs/Pentaho Data Integration 4 Cookbook [eBook].pdf
+./HOS/learn/python-in-containers/Docs/Percona_Distribution_for_MySQL.pdf
+./HOS/learn/python-in-containers/Docs/PerconaToolkit3.3.1.pdf
+./HOS/learn/python-in-containers/Docs/PFEX3379.0-157458(1).pdf
+./HOS/learn/python-in-containers/Docs/PFEX3379.0-157458.pdf
+./HOS/learn/python-in-containers/Docs/PFIZER fact sheet English and Spanish.pdf
+./HOS/learn/python-in-containers/Docs/Picheta_Nim_MEAP_V03_ch1.pdf
+./HOS/learn/python-in-containers/Docs/Pipeline_as_Code.pdf
+./HOS/learn/python-in-containers/Docs/Plaintiff's Supp Mot For Lv Desg Rsp Parties.pdf
+./HOS/learn/python-in-containers/Docs/Plan Advisors - Broker Connect - Scope of Appointment.pdf
+./HOS/learn/python-in-containers/Docs/Pls Amd Rsp to Pet Cnfrm Enfrce Awd of Arb.pdf
+./HOS/learn/python-in-containers/Docs/Pls Rsp to Crs Def Obj to Martins Mtn for Lv Dsg Rsp Prty.pdf
+./HOS/learn/python-in-containers/Docs/Pls Supp Rsp Mtn Svr Clms.pdf
+./HOS/learn/python-in-containers/Docs/POSTGRESQL_SERVER_PROGRAMMING.pdf
+./HOS/learn/python-in-containers/Docs/PowerShell 3.0 Advanced Administration Handbook [eBook].pdf
+./HOS/learn/python-in-containers/Docs/PowerShell_and_WMI.pdf
+./HOS/learn/python-in-containers/Docs/PowerShell_Deep_Dive.pdf
+./HOS/learn/python-in-containers/Docs/PowerShell_Examples_v4.pdf
+./HOS/learn/python-in-containers/Docs/PowerShell_in_Depth.pdf
+./HOS/learn/python-in-containers/Docs/PowerShell_in_Practi_v1_PUBLISH.pdf
+./HOS/learn/python-in-containers/Docs/PowerShell_LangRef_v4.pdf
+./HOS/learn/python-in-containers/Docs/PowerShell Troubleshooting Guide [eBook].pdf
+./HOS/learn/python-in-containers/Docs/PraccticalLinuxInfrastucture.pdf
+./HOS/learn/python-in-containers/Docs/PractDeepLearningPython_ch04_sample.pdf
+./HOS/learn/python-in-containers/Docs/Practical_Data_Scien_v7_MEAP.pdf
+./HOS/learn/python-in-containers/Docs/PracticalLinuxInfrastructure.pdf
+./HOS/learn/python-in-containers/Docs/Practical Maya Programming with Python [eBook].pdf
+./HOS/learn/python-in-containers/Docs/Practical_Probabilistic_Programming.pdf
+./HOS/learn/python-in-containers/Docs/Practical_Python_Security_v1_MEAP.pdf
+./HOS/learn/python-in-containers/Docs/Practices_of_the_Python_Pro.pdf
+./HOS/learn/python-in-containers/Docs/PremierDX-Patient-Lab-Results.pdf
+./HOS/learn/python-in-containers/Docs/Prerequisites_RaaS_AD.pdf
+./HOS/learn/python-in-containers/Docs/PrescriptionHistory-1643664520980.pdf
+./HOS/learn/python-in-containers/Docs/Presentation.pdf
+./HOS/learn/python-in-containers/Docs/PrimeFaces Cookbook [ebook].pdf
+./HOS/learn/python-in-containers/Docs/Print Member ID card.pdf
+./HOS/learn/python-in-containers/Docs/privatecloudfordummies.pdf
+./HOS/learn/python-in-containers/Docs/ProBashProgramming.pdf
+./HOS/learn/python-in-containers/Docs/Processing 2_ Creative Coding Hotshot [eBook].pdf
+./HOS/learn/python-in-containers/Docs/ProPythonAdministration.pdf
+./HOS/learn/python-in-containers/Docs/ProPythonSystemAdm.pdf
+./HOS/learn/python-in-containers/Docs/Pulling_Strings_with_Puppet_Configuration_Management_Made_Easy.pdf
+./HOS/learn/python-in-containers/Docs/Pulse_NovDec_2014_final.pdf
+./HOS/learn/python-in-containers/Docs/PyMOTW-1.132.pdf
+./HOS/learn/python-in-containers/Docs/Python 2.6 Text Processing_ Beginners Guide [eBook].pdf
+./HOS/learn/python-in-containers/Docs/Python_and_Tkinter_Programming_v1.pdf
+./HOS/learn/python-in-containers/Docs/Python_and_Tkinter_P_v1_PUBLISH.pdf
+./HOS/learn/python-in-containers/Docs/Python+App+in+Docker+Container.pdf
+./HOS/learn/python-in-containers/Docs/Python+Base+Images.pdf
+./HOS/learn/python-in-containers/Docs/pythondatasciencehandbook.pdf
+./HOS/learn/python-in-containers/Docs/Python Data Visualization Cookbook [eBook].pdf
+./HOS/learn/python-in-containers/Docs/Python Essentials [eBook].pdf
+./HOS/learn/python-in-containers/Docs/Python for Finance [eBook].pdf
+./HOS/learn/python-in-containers/Docs/Python for Secret Agents [eBook].pdf
+./HOS/learn/python-in-containers/Docs/python_for_unix_and_linux_system_administration.pdf
+./HOS/learn/python-in-containers/Docs/Python_Geospatial_Development_2nd Edition.pdf
+./HOS/learn/python-in-containers/Docs/Python GeoSpatial Development [eBook].pdf
+./HOS/learn/python-in-containers/Docs/Python Network Programming Cookbook [eBook].pdf
+./HOS/learn/python-in-containers/Docs/Python Testing_ Beginner's Guide [eBook].pdf
+./HOS/learn/python-in-containers/Docs/Python Testing Cookbook [eBook].pdf
+./HOS/learn/python-in-containers/Docs/Python Text Processing with NLTK 2.0 Cookbook [eBook].pdf
+./HOS/learn/python-in-containers/Docs/Python_Tricks_atqCuqK.pdf
+./HOS/learn/python-in-containers/Docs/python_tutorial.pdf
+./HOS/learn/python-in-containers/Docs/Python_Workout.pdf
+./HOS/learn/python-in-containers/Docs/qt4_editor_options.pdf
+./HOS/learn/python-in-containers/Docs/Quandl+-+Pandas_+SciPy_+NumPy+Cheat+Sheet.pdf
+./HOS/learn/python-in-containers/Docs/Quick_Reference_DSC_WS12R2.pdf
+./HOS/learn/python-in-containers/Docs/Quick_Reference_SM_WS12R2.pdf
+./HOS/learn/python-in-containers/Docs/Quick_Reference_WMI_Devs_WS12R2.pdf
+./HOS/learn/python-in-containers/Docs/Quiz.pdf
+./HOS/learn/python-in-containers/Docs/RA_CI with Docker_08.25.2015.pdf
+./HOS/learn/python-in-containers/Docs/Raspberry Pi Cookbook for Python Programmers [eBook].pdf
+./HOS/learn/python-in-containers/Docs/Raspberry Pi for Secret Agents [eBook].pdf
+./HOS/learn/python-in-containers/Docs/Raspberry Pi Home Automation with Arduino [eBook].pdf
+./HOS/learn/python-in-containers/Docs/Raspberry Pi Robotic Projects [eBook].pdf
+./HOS/learn/python-in-containers/Docs/Raspberry Pi Super Cluster [eBook].pdf
+./HOS/learn/python-in-containers/Docs/RBU_PPO_PharmacyDirectory.pdf
+./HOS/learn/python-in-containers/Docs/R Data Analysis Cookbook [eBook].pdf
+./HOS/learn/python-in-containers/Docs/Reactive_Machine_Learning_Systems_v2_MEAP.pdf
+./HOS/learn/python-in-containers/Docs/README.pdf
+./HOS/learn/python-in-containers/Docs/real-time_big_data_analytics-_emerging_architecture.pdf
+./HOS/learn/python-in-containers/Docs/Real-World_Machine_Learning_v13_MEAP.pdf
+./HOS/learn/python-in-containers/Docs/Received.pdf
+./HOS/learn/python-in-containers/Docs/Rectangle Stamp(blue).pdf
+./HOS/learn/python-in-containers/Docs/Rectangle Stamp(green).pdf
+./HOS/learn/python-in-containers/Docs/Rectangle Stamp(red).pdf
+./HOS/learn/python-in-containers/Docs/RedHat_-_Accelerating_Business_Application_Development.pdf
+./HOS/learn/python-in-containers/Docs/Red_Hat_Enterprise_Linux-6-DM_Multipath-en-US.pdf
+./HOS/learn/python-in-containers/Docs/Red_Hat_Enterprise_Linux-6-Migration_Planning_Guide-en-US.pdf
+./HOS/learn/python-in-containers/Docs/Red_Hat_Enterprise_Linux-7-Linux_Domain_Identity_Authentication_and_Policy_Guide-en-US.pdf
+./HOS/learn/python-in-containers/Docs/Red_Hat_Enterprise_Linux-7-System_Administrators_Guide-en-US.pdf
+./HOS/learn/python-in-containers/Docs/Red_Hat_Enterprise_Linux-7-Windows_Integration_Guide-en-US.pdf
+./HOS/learn/python-in-containers/Docs/Red_Hat_Enterprise_Linux_OpenStack_Platform-5-Installation_and_Configuration_Guide-en-US.pdf
+./HOS/learn/python-in-containers/Docs/RedHatEnterpriseLinuxServerCookbook[eBook].pdf
+./HOS/learn/python-in-containers/Docs/RedHatEnterpriseLinuxTroubleshootingGuide[eBook].pdf
+./HOS/learn/python-in-containers/Docs/Re-Engineering_Legac_v7_MEAP.pdf
+./HOS/learn/python-in-containers/Docs/Re-Engineering_Legacy_Software.pdf
+./HOS/learn/python-in-containers/Docs/ReferenceCardForMac.pdf
+./HOS/learn/python-in-containers/Docs/ReferenceCard.pdf
+./HOS/learn/python-in-containers/Docs/REG-481406-20 WEB- Regence Medicare MTM Personal Medication List-r3(1).pdf
+./HOS/learn/python-in-containers/Docs/REG-481406-20 WEB- Regence Medicare MTM Personal Medication List-r3(2).pdf
+./HOS/learn/python-in-containers/Docs/REG-481406-20 WEB- Regence Medicare MTM Personal Medication List-r3.pdf
+./HOS/learn/python-in-containers/Docs/Regence 2021 outline of coverage.pdf
+./HOS/learn/python-in-containers/Docs/Regence Linux BMR Recovery Procedure.pdf
+./HOS/learn/python-in-containers/Docs/Regence PPO 2021.pdf
+./HOS/learn/python-in-containers/Docs/regex.pdf
+./HOS/learn/python-in-containers/Docs/ReleaseJudgmentLien (Grayson)-v1 Martin v. Higginson 4-13-21 4821-1824-9189 v.1(1).pdf
+./HOS/learn/python-in-containers/Docs/ReleaseJudgmentLien (Grayson)-v1 Martin v. Higginson 4-13-21 4821-1824-9189 v.1.pdf
+./HOS/learn/python-in-containers/Docs/ReleaseJudgmentLien (Lubbock)-v1 Martin v. Higginson 4-13-21 4821-1733-1685 v.1.pdf
+./HOS/learn/python-in-containers/Docs/ReleaseJudgmentLien (Lubbock)-v1  Martin v. Higginson 4-13-21 4821-1733-1685 v.1.pdf
+./HOS/learn/python-in-containers/Docs/RELEASE-NOTES.pdf
+./HOS/learn/python-in-containers/Docs/report_request(1).pdf
+./HOS/learn/python-in-containers/Docs/report_request(2).pdf
+./HOS/learn/python-in-containers/Docs/report_request(3).pdf
+./HOS/learn/python-in-containers/Docs/report_request.pdf
+./HOS/learn/python-in-containers/Docs/Respondent Disp Mtn - Exh A.pdf
+./HOS/learn/python-in-containers/Docs/Response to Motion to Sever.pdf
+./HOS/learn/python-in-containers/Docs/Responsive Web Design by Example _ Beginner's Guide - Second Edition [eBook].pdf
+./HOS/learn/python-in-containers/Docs/ResponsiveWebDesignbyExampleBeginner's GuideSecond Edition.pdf
+./HOS/learn/python-in-containers/Docs/RetirementPlanEligibilityDetailsPlanFreezeOptionsandSurvivorBenefits.pdf
+./HOS/learn/python-in-containers/Docs/Reviewed.pdf
+./HOS/learn/python-in-containers/Docs/Revised.pdf
+./HOS/learn/python-in-containers/Docs/RFDMartin.pdf
+./HOS/learn/python-in-containers/Docs/R for Data Science [eBook].pdf
+./HOS/learn/python-in-containers/Docs/R_in_Action_Second_.pdf
+./HOS/learn/python-in-containers/Docs/R. Martin - S.O..pdf
+./HOS/learn/python-in-containers/Docs/Rootkits.pdf
+./HOS/learn/python-in-containers/Docs/R Statistical Application Development by Example Beginner's Guide [eBook].pdf
+./HOS/learn/python-in-containers/Docs/RTL8821CU linux Installation guide(1).pdf
+./HOS/learn/python-in-containers/Docs/RTL8821CU linux Installation guide.pdf
+./HOS/learn/python-in-containers/Docs/Running+Containers+in+Docker.pdf
+./HOS/learn/python-in-containers/Docs/Running+Multiple+Containers.pdf
+./HOS/learn/python-in-containers/Docs/Running+our+App+in+Various+Environments.pdf
+./HOS/learn/python-in-containers/Docs/RxJS_in_Action_v2_MEAP.pdf
+./HOS/learn/python-in-containers/Docs/sag.pdf
+./HOS/learn/python-in-containers/Docs/Scan1_2014_08_14_13_32_55_421.pdf
+./HOS/learn/python-in-containers/Docs/Scan1234_2015_11_10_08_41_52_408.pdf
+./HOS/learn/python-in-containers/Docs/Scan_2014_03_07_07_29_23_956.pdf
+./HOS/learn/python-in-containers/Docs/Scan_2014_09_26_13_37_58_799.pdf
+./HOS/learn/python-in-containers/Docs/Scan2_2014_08_14_13_33_24_661.pdf
+./HOS/learn/python-in-containers/Docs/Scan2345_2015_11_11_13_50_55_598.pdf
+./HOS/learn/python-in-containers/Docs/Scancheck_2015_09_29_08_48_14_526.pdf
+./HOS/learn/python-in-containers/Docs/Scan-con_2014_04_25_07_45_48_382.pdf
+./HOS/learn/python-in-containers/Docs/Scan_cpss_2015_10_19_13_17_39_964.pdf
+./HOS/learn/python-in-containers/Docs/Scanperp_2015_08_10_07_59_23_485.pdf
+./HOS/learn/python-in-containers/Docs/scikit-learn Cookbook [eBook].pdf
+./HOS/learn/python-in-containers/Docs/SDD_1.7--2.3_User_Guide_English_version.pdf
+./HOS/learn/python-in-containers/Docs/secondpage.pdf
+./HOS/learn/python-in-containers/Docs/Secrets_of_the_JavaS.pdf
+./HOS/learn/python-in-containers/Docs/Section01_Introduction.pdf
+./HOS/learn/python-in-containers/Docs/Section02_Build Machine Setup.pdf
+./HOS/learn/python-in-containers/Docs/Section03_Docker Setup.pdf
+./HOS/learn/python-in-containers/Docs/Section04_Source Control Setup.pdf
+./HOS/learn/python-in-containers/Docs/Section05_Vault Setup.pdf
+./HOS/learn/python-in-containers/Docs/Section06_Automating VM Creation.pdf
+./HOS/learn/python-in-containers/Docs/Section07_Jenkins Setup.pdf
+./HOS/learn/python-in-containers/Docs/Section08_Deployment with Terraform.pdf
+./HOS/learn/python-in-containers/Docs/Section08_Deployment+with+Terraform.pdf
+./HOS/learn/python-in-containers/Docs/Section09_Ansible VM Configuration.pdf
+./HOS/learn/python-in-containers/Docs/Section10_Application Stacks.pdf
+./HOS/learn/python-in-containers/Docs/section-12-signing-up-with-a-free-authority.pdf
+./HOS/learn/python-in-containers/Docs/Securing-Optimizing-Linux-The-Hacking-Solution-v3.0.pdf
+./HOS/learn/python-in-containers/Docs/Security+Checklist (1).pdf
+./HOS/learn/python-in-containers/Docs/Security+Checklist(1).pdf
+./HOS/learn/python-in-containers/Docs/Security+Checklist.pdf
+./HOS/learn/python-in-containers/Docs/Selenium 2 Testing Tools_ Beginner's Guide [eBook].pdf
+./HOS/learn/python-in-containers/Docs/SELinuxSystemAdministration[eBook].pdf
+./HOS/learn/python-in-containers/Docs/SensorNEtworks.pdf
+./HOS/learn/python-in-containers/Docs/Serverless_Architectures_on_AWS_v2_MEAP.pdf
+./HOS/learn/python-in-containers/Docs/serverless-go.pdf
+./HOS/learn/python-in-containers/Docs/Server_Virtualization_Software_Report_from_IT_Central_Station_113.pdf
+./HOS/learn/python-in-containers/Docs/SETUP_WINDOWS.pdf
+./HOS/learn/python-in-containers/Docs/SH advantage 2021.pdf
+./HOS/learn/python-in-containers/Docs/shellscripting_expertrecipesforlinuxbashandmore.pdf
+./HOS/learn/python-in-containers/Docs/Short-refcard.pdf
+./HOS/learn/python-in-containers/Docs/SHOW+SLAVE+STATUS+log+files+&+positions+explained.pdf
+./HOS/learn/python-in-containers/Docs/Silverpeak.pdf
+./HOS/learn/python-in-containers/Docs/SinglePageWebApplications.pdf
+./HOS/learn/python-in-containers/Docs/SLC-Walking-Distances-v2.pdf
+./HOS/learn/python-in-containers/Docs/slides-students-C04.pdf
+./HOS/learn/python-in-containers/Docs/Smashing Virtualization_Security_Myths_eBook.pdf
+./HOS/learn/python-in-containers/Docs/SMC8824_48M Management Guide.pdf
+./HOS/learn/python-in-containers/Docs/._Software and hardware list.pdf
+./HOS/learn/python-in-containers/Docs/Software and hardware list.pdf
+./HOS/learn/python-in-containers/Docs/._Software and hardware List.pdf
+./HOS/learn/python-in-containers/Docs/Software and hardware List.pdf
+./HOS/learn/python-in-containers/Docs/Software and Hardware List.pdf
+./HOS/learn/python-in-containers/Docs/SolarWinds - 6-tips-to-eliminate-latency-in-your-virtual-environment.pdf
+./HOS/learn/python-in-containers/Docs/Sonar Code Quality Testing Essentials [eBook].pdf
+./HOS/learn/python-in-containers/Docs/Speedment_programmers-guide_1.11.pdf
+./HOS/learn/python-in-containers/Docs/SPLab talk.pdf
+./HOS/learn/python-in-containers/Docs/SQL+for+Data+Science.pdf
+./HOS/learn/python-in-containers/Docs/Square Stamp(blue).pdf
+./HOS/learn/python-in-containers/Docs/Square Stamp(green).pdf
+./HOS/learn/python-in-containers/Docs/Square Stamp(red).pdf
+./HOS/learn/python-in-containers/Docs/SSHTheSecureShell.pdf
+./HOS/learn/python-in-containers/Docs/Statistical Analysis with R [eBook].pdf
+./HOS/learn/python-in-containers/Docs/StatisticsDoneWrong.pdf
+./HOS/learn/python-in-containers/Docs/Step-by-Step-Guide-How-to-Rapidly-Build-Neural-Networks.pdf
+./HOS/learn/python-in-containers/Docs/subplots.pdf
+./HOS/learn/python-in-containers/Docs/sudo+and+visudo.pdf
+./HOS/learn/python-in-containers/Docs/Sune-Keller-Service-Hotel.pdf
+./HOS/learn/python-in-containers/Docs/Support, Complaints, and Feedback.pdf
+./HOS/learn/python-in-containers/Docs/systemadministratorgroup_tradepub_com (1).pdf
+./HOS/learn/python-in-containers/Docs/Tax1099R-2020-18564-Annual-1-000617658-341653.pdf
+./HOS/learn/python-in-containers/Docs/TaxStatements.pdf
+./HOS/learn/python-in-containers/Docs/Tcpdump.pdf
+./HOS/learn/python-in-containers/Docs/Temp Resources K-1.pdf
+./HOS/learn/python-in-containers/Docs/Terraform_in_Action.pdf
+./HOS/learn/python-in-containers/Docs/testdrivendevelopmentwithpython.pdf
+./HOS/learn/python-in-containers/Docs/test.pdf
+./HOS/learn/python-in-containers/Docs/tf-2-how-to-build-ann-cnn.pdf
+./HOS/learn/python-in-containers/Docs/tf-mean-for-your-business.pdf
+./HOS/learn/python-in-containers/Docs/The_Art_of_Network_Penetration_Testing.pdf
+./HOS/learn/python-in-containers/Docs/The_Art_of_Unit_Test.pdf
+./HOS/learn/python-in-containers/Docs/The+Concepts+of+Linux+Containers.pdf
+./HOS/learn/python-in-containers/Docs/The_Forrester_Wave__Big_Data_Solutions_Q1_2014.pdf
+./HOS/learn/python-in-containers/Docs/thehitchhikersguidetopython.pdf
+./HOS/learn/python-in-containers/Docs/The IT Professional's Guide to Researching a New Industry [eBook].pdf
+./HOS/learn/python-in-containers/Docs/The_Jamstack_Book_v1_MEAP.pdf
+./HOS/learn/python-in-containers/Docs/theory-lectures-v2-BEST.pdf
+./HOS/learn/python-in-containers/Docs/The_Quick_Python_Book_Second_Edition.pdf
+./HOS/learn/python-in-containers/Docs/The_Responsive_Web.pdf
+./HOS/learn/python-in-containers/Docs/thesmartestwaytolearnpythonregex.pdf
+./HOS/learn/python-in-containers/Docs/The_Tao_of_Microservices_v2_MEAP.pdf
+./HOS/learn/python-in-containers/Docs/The_Well-Grounded_Ru_v6_MEAP.pdf
+./HOS/learn/python-in-containers/Docs/thinkbayes.pdf
+./HOS/learn/python-in-containers/Docs/Thinking in CSS [eBook].pdf
+./HOS/learn/python-in-containers/Docs/Thinking in HTML[eBook] [eBook].pdf
+./HOS/learn/python-in-containers/Docs/Thinking in JavaScript [eBook].pdf
+./HOS/learn/python-in-containers/Docs/Think_Like_a_Data_Scientist.pdf
+./HOS/learn/python-in-containers/Docs/ThinkLikeAProgrammer.pdf
+./HOS/learn/python-in-containers/Docs/thinkpython.pdf
+./HOS/learn/python-in-containers/Docs/thoughtfulmachinelearningwithpython.pdf
+./HOS/learn/python-in-containers/Docs/Tiny_Python_Projects.pdf
+./HOS/learn/python-in-containers/Docs/TireProInv.pdf
+./HOS/learn/python-in-containers/Docs/Top Pitfalls to avoid When Implementing Cloud Computing.pdf
+./HOS/learn/python-in-containers/Docs/Tripwire Security Configuration Management For Dummies.pdf
+./HOS/learn/python-in-containers/Docs/twistednetworkprogrammingessentials.pdf
+./HOS/learn/python-in-containers/Docs/U0000.pdf
+./HOS/learn/python-in-containers/Docs/U Advantage.pdf
+./HOS/learn/python-in-containers/Docs/ubuntulinuxtoolbox_1000pluscommandsforpowerusers.pdf
+./HOS/learn/python-in-containers/Docs/UC-0UH6UIMS.pdf
+./HOS/learn/python-in-containers/Docs/UC-55468fd7-a7cc-4c35-be05-012e791e1c5f.pdf
+./HOS/learn/python-in-containers/Docs/ufw-cheat-sheet.pdf
+./HOS/learn/python-in-containers/Docs/UnifiedLog_MEAP_CH01.pdf
+./HOS/learn/python-in-containers/Docs/Unified_Log_Processing_v12_MEAP.pdf
+./HOS/learn/python-in-containers/Docs/Untitled.pdf
+./HOS/learn/python-in-containers/Docs/UserManual.pdf
+./HOS/learn/python-in-containers/Docs/usingandadministeringlinux_volume1.pdf
+./HOS/learn/python-in-containers/Docs/uuhc_pharmacies.pdf
+./HOS/learn/python-in-containers/Docs/Vaccine_Timeline.pdf
+./HOS/learn/python-in-containers/Docs/ventana_research_benchmark_research_big_data_integration_executive_summary_2014_pentaho.pdf
+./HOS/learn/python-in-containers/Docs/Verified.pdf
+./HOS/learn/python-in-containers/Docs/Verizon_bill_August_11_2020.pdf
+./HOS/learn/python-in-containers/Docs/Verizon_bill_July_11_2020.pdf
+./HOS/learn/python-in-containers/Docs/Verizon_bill_October_11_2020.pdf
+./HOS/learn/python-in-containers/Docs/Verizon_bill_September_11_2020.pdf
+./HOS/learn/python-in-containers/Docs/Video Package_User Guide.pdf
+./HOS/learn/python-in-containers/Docs/Viewfinity_-_Mastering_Privilege_Management.pdf
+./HOS/learn/python-in-containers/Docs/Villa Group-Annex Forms-TF-EMT-VF00004167-000.pdf
+./HOS/learn/python-in-containers/Docs/VMware Management with PowerCLI 5.0.pdf
+./HOS/learn/python-in-containers/Docs/vmware-reference-architecture-creating-software-defined-data-center.pdf
+./HOS/learn/python-in-containers/Docs/VMware View 5 Desktop Virtualization Solutions [eBook].pdf
+./HOS/learn/python-in-containers/Docs/VMware vSphere 5.5 Cookbook [eBook].pdf
+./HOS/learn/python-in-containers/Docs/Void.pdf
+./HOS/learn/python-in-containers/Docs/VScan Manual.pdf
+./HOS/learn/python-in-containers/Docs/vSphere High Performance Cookbook [eBook].pdf
+./HOS/learn/python-in-containers/Docs/vSphere Installation and Setup - vSphere 5.1.pdf
+./HOS/learn/python-in-containers/Docs/vSphere Storage - ESXi 5.1.pdf
+./HOS/learn/python-in-containers/Docs/vsphere-vnetwork-ds-migration-configuration-wp[1].pdf
+./HOS/learn/python-in-containers/Docs/Vulnerability+Scanning+of+Images.pdf
+./HOS/learn/python-in-containers/Docs/WDB+Course+Intro.pdf
+./HOS/learn/python-in-containers/Docs/WDB+Web+Dev+Intro.pdf
+./HOS/learn/python-in-containers/Docs/Web_Design_Playground.pdf
+./HOS/learn/python-in-containers/Docs/WebMinAdminstration.pdf
+./HOS/learn/python-in-containers/Docs/webscrapingwithpython.pdf
+./HOS/learn/python-in-containers/Docs/Welcome+&+Goal.pdf
+./HOS/learn/python-in-containers/Docs/Welcome+to+this+course+PDF.pdf
+./HOS/learn/python-in-containers/Docs/WG72-WriterGuide.pdf
+./HOS/learn/python-in-containers/Docs/Whitepaper-Apache-Hadoop-Modern-Data-Architecture.pdf
+./HOS/learn/python-in-containers/Docs/windows_powershell_cookbook_second_edition.pdf
+./HOS/learn/python-in-containers/Docs/Windows PowerShell Desired State Configuration Quick Reference for Windows Management Framework 4.0.pdf
+./HOS/learn/python-in-containers/Docs/wiresharkforsecurityprofessionals.pdf
+./HOS/learn/python-in-containers/Docs/Witness.pdf
+./HOS/learn/python-in-containers/Docs/WiX3.6_ADeveloper'sGuidetoWindowsInstallerXML.pdf
+./HOS/learn/python-in-containers/Docs/Womack K-1.pdf
+./HOS/learn/python-in-containers/Docs/workout_beginners_final.pdf
+./HOS/learn/python-in-containers/Docs/WP_Best_Practices_Managing_Virtualized_Environments.pdf
+./HOS/learn/python-in-containers/Docs/WP-Creating-Culture-Innovation.pdf
+./HOS/learn/python-in-containers/Docs/wp_LSI-1022-EN_LTR_OnPrem_Hybrid_elec.pdf
+./HOS/learn/python-in-containers/Docs/wp-optimizing-poweredge-hadoop-configurations.pdf
+./HOS/learn/python-in-containers/Docs/w_wile141.pdf
+./HOS/learn/python-in-containers/Docs/Xfinitystatement.pdf
+./HOS/learn/python-in-containers/Docs/Your Advance Designation of Representative Annual Notice.pdf
+./HOS/learn/python-in-containers/Docs/your-writing-habit.pdf
+./HOS/learn/python-in-containers/Docs/ZenossSpecialReportStateofConvergedInfrastructure2013.pdf
+./HOS/learn/python-in-containers/Docs/zero-to-production-ready-docker.pdf
+./HOS/learn/python-in-containers/Docs/zoom_to_rect.pdf

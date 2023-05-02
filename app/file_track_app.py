@@ -21,14 +21,24 @@ def get_args():
                         help='A positional argument')
     return parser.parse_args()
 
+
+def is_file_or_dir(path):
+    if os.path.isfile(path):
+        print(path, "is a file")
+    elif os.path.isdir(path):
+        print(path, "is a directory")
+    else:
+        print(path, "is not a file or directory")
+
 # --------------------------------------------------
 def main():
     """Make a jazz noise here"""
 
     args = get_args()
     pos_arg = args.positional
+    is_file_or_dir(pos_arg)
 
-    print(f'positional = "{shlex.quote(pos_arg)}"')
+#    print(f'positional = "{shlex.quote(pos_arg)}"')
 
 
 # --------------------------------------------------

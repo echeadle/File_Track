@@ -24,6 +24,7 @@ class Database():
 
     def add_record(self, table_name, record):
         query = f"INSERT INTO {table_name} ({', '.join(record.keys())}) VALUES ({', '.join(['?' for _ in record.values()])})"
+        print(query)
         self.cursor.execute(query, list(record.values()))
         self.conn.commit()
 

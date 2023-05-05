@@ -29,3 +29,16 @@ This journal will chronical my efforts to create a file tracking program.
         a. check to see if the filepath exists in database
             if it does check the hash
             if equal skip, if not equal add
+
+ 
+
+  Questions:
+  1. What is the program for?  To track file changes is the purpose of the Manning Project.
+      I want to create a hash for each file so I can tell if I have duplicates. THis is different
+      than the purpose of the Manning project. It runs and just updates the time stamp if the 
+      hash changes.  I think that would be interesting, but also I want be able to find duplicates
+  2. Files have the same hash are duplicates. Right now the program adds files to  the database
+     without checking to see if the file is already there. THe problem with checking just the hash
+     is that a true duplicate will have the same hash but if I do not enter it i can't find 
+     duplicates.  The next step is to walk the tree, check the hash, if it is the same, then the path
+     should be checked. if the hash and the path are the same the file should be skipped.

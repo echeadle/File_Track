@@ -162,3 +162,5 @@ cython_debug/
 *.ods
 *lock*
 *.swp
+*.db
+.idea

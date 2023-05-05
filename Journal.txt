@@ -22,3 +22,10 @@ This journal will chronical my efforts to create a file tracking program.
   The files that have the locations and filename of the old system
   is /home/echeadle/Workspace/AI_Prog/File_Track/documents.
 
+  Name of the app: file_track_app.py
+  1. Add table to database. file_hash
+  2. Add index to database
+  3. Walk the directory tree.
+        a. check to see if the filepath exists in database
+            if it does check the hash
+            if equal skip, if not equal add

@@ -6,6 +6,7 @@ Purpose: File Tracker
 """
 
 import argparse
+import os
 import shlex
 
 # --------------------------------------------------
@@ -20,6 +21,7 @@ def get_args():
                         metavar='str',
                         help='A positional argument')
     return parser.parse_args()
+    
 
 
 def is_file_or_dir(path):

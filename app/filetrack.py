@@ -49,26 +49,27 @@ def main():
     folder = shlex.quote(str_arg)
     print(is_file_or_dir(folder))
 
-    for folderName, subfolders, filenames in os.walk(folder):
+    for root, subfolders, filenames in os.walk(folder):
         #print('The current folder is ' + folderName)
         subfolders[:] = [f for f in subfolders if not f in ['ansible_collections','node_modules','google-cloud-sdk', 'go', 'VirtualBox VMs','anaconda3','snap','env','venv','temp']]
         subfolders[:] = [f for f in subfolders if not f.startswith('.')]
         subfolders[:] = [f for f in subfolders if not f.startswith('__')]
+        filenames[:] = [f for f in filenames if  not f.startswith('.') or not f.startswith('__')]
+        #filenames[:] = [f for f in filenames if  not f.startswith('__')]
 
-        for subfolder in subfolders:
+        #for subfolder in subfolders:
             #print('SUBFOLDER OF ' + folderName + ': ' + subfolder)
-            pass
-        filenames[:] = [f for f in filenames if  not f.startswith('.')]
-        filenames[:] = [f for f in filenames if  not f.startswith('__')]
-        #filenames[:] = [f for f in filenames if  re.findSall('test', f, flags=re.IGNORECASE)]
+            #filenames[:] = [f for f in filenames if  re.findSall('test', f, flags=re.IGNORECASE)]
+            #pass
         for filename in filenames:
-            #print('FILE INSIDE ' + folderName + ': '+ filename)
-            full_file_path = os.path.join(shlex.quote(folderName), shlex.quote(filename))
-            if os.path.isfile(full_file_path):
-                filehash = hash_module.hash_file(full_file_path)
-                print(f'"{folderName}"  ,  "{filename}"  ,  "{filehash}"')
-
-
+             #print('FILE INSIDE ' + folderName + ': '+ filename)
+            full_file_path = shlex.quote(os.path.join(root, filename))
+            #print(full_file_path)
+            #if os.path.isfile(full_file_path):
+            filehash = hash_module.hash_file(full_file_path)
+            print(f'"{full_file_path:70}", "{filename:25}", "{filehash:50}"')
+            #print(folderName)
+            
 # --------------------------------------------------
 if __name__ == '__main__':
     main()

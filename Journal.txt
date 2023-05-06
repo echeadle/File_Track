@@ -61,3 +61,12 @@ This journal will chronical my efforts to create a file tracking program.
             args = get_args()
             str_arg = args.arg  <<<---- This must matchthe --arg so if it changed this changes
 
+ The file walk code was broken, I was walking subfolders as well which caused issues with duplicating
+ files.  The code in filetrack.py is now working properly.
+
+ Next step is add creating the database, table and index. We have to decide what the index should be 
+ and what the db is for.  I am thinking the index should be the hash. That way duplicate records can be found
+ quickly, we also need a time stamp so if a file is changed we can determine it.  What happens if a file is
+ altered and the hash changes?  How is it handled in the database.
+
+

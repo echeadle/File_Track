@@ -67,7 +67,10 @@ def main():
             #print(full_file_path)
             #if os.path.isfile(full_file_path):
             filehash = hash_module.hash_file(full_file_path)
-            print(f'"{full_file_path:70}", "{filename:25}", "{filehash:50}"')
+            print('-' * 70)
+            print(f'{full_file_path:70}\n{filename:25}\n{filehash:50}')
+            
+    print('-' * 70)
             #print(folderName)
             
 # --------------------------------------------------

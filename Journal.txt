@@ -42,3 +42,22 @@ This journal will chronical my efforts to create a file tracking program.
      is that a true duplicate will have the same hash but if I do not enter it i can't find 
      duplicates.  The next step is to walk the tree, check the hash, if it is the same, then the path
      should be checked. if the hash and the path are the same the file should be skipped.
+
+  May 6,2023
+  Today I will create a new file call filetrack.py  THe final version will be file_track.py. This new file
+  will be them minimum viable product.  It will start with the skeleton cmdline version but it will build
+  up one function at a time. To start, it will create the database, table and index. Next
+  it will take a folder as an argument (it will be a default folder)
+
+
+  Lesson learned, in the skeleton when you add an argument like:
+        parser.add_argument('-a', '--arg',
+                        help='A named string argument',
+                        metavar='str',
+                        type=str,
+                        default='')
+
+       In the main function
+            args = get_args()
+            str_arg = args.arg  <<<---- This must matchthe --arg so if it changed this changes
+

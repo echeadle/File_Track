@@ -10,8 +10,8 @@ import os
 import re
 import shlex
 
-import hash_module
-
+import hash_module as hm
+import sqlite_db as db
 # --------------------------------------------------
 def get_args():
     """Get command-line arguments"""
@@ -38,10 +38,16 @@ def is_file_or_dir(path):
     else:
         return False
 
+def setup_db(db_name, table, index, index_cols, columns):
+    my_db = db.Database(db_name)
+    mypc_db.create_table(table_name, columns)
+    mypc_db.create_index(index_name, table_name, index_cols)
+
 # --------------------------------------------------
 def main():
     """File Track manin function"""
 
+    
     args = get_args()
     str_arg = args.dir
 
@@ -66,7 +72,7 @@ def main():
             full_file_path = shlex.quote(os.path.join(root, filename))
             #print(full_file_path)
             #if os.path.isfile(full_file_path):
-            filehash = hash_module.hash_file(full_file_path)
+            filehash = hm.hash_file(full_file_path)
             print('-' * 70)
             print(f'{full_file_path:70}\n{filename:25}\n{filehash:50}\n')
             

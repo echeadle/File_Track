@@ -13,7 +13,8 @@ class Database():
         self.conn.commit()
 
     def create_index(self, index_name, table_name, column_list):
-        query = f"CREATE INDEX IF NOT EXISTS {index_name} ON {table_name} ({column_list})"
+        #query = f"CREATE INDEX IF NOT EXISTS {index_name} ON {table_name} ({column_list})"
+        query = f"CREATE INDEX IF NOT EXISTS idx_hash ON file_hash(filepath, filehash)"
         self.cursor.execute(query)
         self.conn.commit()
 
@@ -48,8 +49,8 @@ class Database():
         self.cursor.execute(query)
         return self.cursor.fetchone()
     
-    def show_dulpicate_records(self, table_name, index_name, value):
-        query = f"SELECT filename, path FROM table_name WHERE index_name = 'value'"
+    def show_duplicate_records(self, table_name, index_name, value):
+        query = f"SELECT filename, filepath FROM {table_name} WHERE {index_name} = '{value}'"
         self.cursor.execute(query)
         return self.cursor.fetchall()
 

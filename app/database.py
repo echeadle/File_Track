@@ -27,7 +27,7 @@ record = {
         }
 mypc_db.add_record(table_name, record)
 print(mypc_db.show_all_tables())
-mypc_db.create_index(index_name, table_name, 'filehash')
+#mypc_db.create_index(index_name, table_name, ('filepath', 'filehash'))
 print('-----------------------------------------------------------------------------------')
 #print(mypc_db.show_all_records('file_hash'))
 
@@ -37,6 +37,10 @@ for filename, filepath, filehash in all_records:
     print(f'{filename} :\n{filepath} :\n{filehash}\n')
     print('---------------------------------------------------------------------------------')
 print(mypc_db.run_query(f"SELECT filename, filepath FROM {table_name} WHERE filehash = '{f_hash}'"))
+print(mypc_db.run_query(f"SELECT type, name,tbl_name, sql FROM sqlite_master WHERE type='index'"))
+
+#print(mypc_db.show_duplicate_records(table_name, index_name, f_hash))
+
 #db.delete_record('users', "name='Bob'")
  #print(db.show_all_records('users'))
  #db.delete_table('users')

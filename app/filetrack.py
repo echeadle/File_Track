@@ -40,8 +40,9 @@ def is_file_or_dir(path):
 
 def setup_db(db_name, table, index, index_cols, columns):
     my_db = db.Database(db_name)
-    mypc_db.create_table(table_name, columns)
-    mypc_db.create_index(index_name, table_name, index_cols)
+    my_db.create_table(table, columns)
+    my_db.create_index(index, table, index_cols)
+    return my_db
 
 # --------------------------------------------------
 def main():
@@ -51,9 +52,17 @@ def main():
     args = get_args()
     str_arg = args.dir
 
-    print(f'str_arg = "{str_arg}"')
+    #print(f'str_arg = "{str_arg}"')
     folder = shlex.quote(str_arg)
-    print(is_file_or_dir(folder))
+    #print(is_file_or_dir(folder))
+
+    # Move the following Variables to an ini file.
+    db_name = 'my_db.db'
+    table = 'file_hash'
+    index = 'idx_hash'
+    index_cols = 'file_hash'
+    columns = columns = {'filename': 'TEXT', 'filepath': 'TEXT', 'filehash': 'TEXT'}
+    mydb = setup_db(db_name, table, index, index_cols, columns)
 
     for root, subfolders, filenames in os.walk(folder):
         #print('The current folder is ' + folderName)

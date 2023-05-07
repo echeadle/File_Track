@@ -69,4 +69,7 @@ This journal will chronical my efforts to create a file tracking program.
  quickly, we also need a time stamp so if a file is changed we can determine it.  What happens if a file is
  altered and the hash changes?  How is it handled in the database.
 
-
+ May 7, 2023
+ Continue to set up the Database.  
+ Database setup works.
+ TODO: Move the varibles to an ini file.  

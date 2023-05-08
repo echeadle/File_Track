@@ -61,6 +61,12 @@ class Database():
         args = (filehash, filename)
         run_query(query, args)
 
+    def is_rec_modifed(filepath,filehash,timestamp):
+        """Check record for any changes
+           Returning false until function is completed"""
+        return False
+
+            
     def show_duplicate_records(self, table_name, index_name, value):
         query = f"SELECT filename, filepath, filehash FROM {table_name} WHERE {index_name} = '{value}'"
         self.cursor.execute(query)

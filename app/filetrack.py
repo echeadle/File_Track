@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Author : echeadle <echeadle@localhost>
-Date   : 2023-05-01
+Date   : 2023-05-08
 Purpose: File Tracker
 """
 
@@ -100,7 +100,9 @@ def main():
                           'filehash':filehash,
                           'timestamp':timestamp}
                 check_record = mydb.show_duplicate_records(table, 'filehash', filehash)
-                if len(check_record) == 0:
+                if is_rec_modified(full_file_path):
+                        mydb.update_record(full_file_path):
+                elif len(check_record) == 0:
                         mydb.add_record(table, record)
                 else:
                     pass

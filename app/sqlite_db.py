@@ -42,7 +42,7 @@ class Database():
 
     def run_query(self, query):
         #print(query)
-        self.cursor.execute(query)
+        self.cursor.execute(query, args)
         return self.cursor.fetchall()
     
     def show_all_records(self, table_name):
@@ -54,7 +54,13 @@ class Database():
         query = f"SELECT * FROM {table_name} WHERE {condition}"
         self.cursor.execute(query)
         return self.cursor.fetchone()
-    
+
+    def update_record(self, filehash, filename): 
+        """Update the SQLite File Table"""
+        query = "UPDATE files SET filehash=? WHERE filename=?"
+        args = (filehash, filename)
+        run_query(query, args)
+
     def show_duplicate_records(self, table_name, index_name, value):
         query = f"SELECT filename, filepath, filehash FROM {table_name} WHERE {index_name} = '{value}'"
         self.cursor.execute(query)

@@ -66,7 +66,7 @@ def main():
     index_cols = 'file_hash'
     columns = columns = {'filename': 'TEXT', 'filepath': 'TEXT', 'filehash': 'TEXT'}
     mydb = setup_db(db_name, table, index, index_cols, columns)
-
+          
     for root, subfolders, filenames in os.walk(folder):
         #print('The current folder is ' + folderName)
         subfolders[:] = [f for f in subfolders if not f in ['ansible_collections','node_modules','google-cloud-sdk', 'go', 'VirtualBox VMs','anaconda3','snap','env','venv','temp']]

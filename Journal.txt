@@ -84,4 +84,9 @@ This journal will chronical my efforts to create a file tracking program.
  I copied the excel functions from the Manning Book: Automatically Tracking File Changes with Python File: excel_rep.py
 
  May 8, 2023
-
+ TODO: Extract the code in filetrack.py to add single records to db without duplication.
+ Decide what else to do with the records.
+   1. If the filepath and hash is the same, maybe update the timestamp in the DB. This could be used to output a file that can be used to clean the database.
+   2. If the filepath is equal and the hash is different update the file and timestamp  Output a to the file changed excel spreadsheet.
+        Output: Update the hash, Write to excel update spreadsheet
+   3. If the filepath is different but the hash is the same, output the filepath file and timestamp to a duplicate file.

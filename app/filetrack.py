@@ -12,6 +12,8 @@ import shlex
 
 import hash_module as hm
 import sqlite_db as db
+#import excel_rep as er
+
 # --------------------------------------------------
 def get_args():
     """Get command-line arguments"""
@@ -43,6 +45,7 @@ def setup_db(db_name, table, index, index_cols, columns):
     my_db.create_table(table, columns)
     my_db.create_index(index, table, index_cols)
     return my_db
+
 
 # --------------------------------------------------
 def main():
@@ -80,14 +83,28 @@ def main():
              #print('FILE INSIDE ' + folderName + ': '+ filename)
             full_file_path = shlex.quote(os.path.join(root, filename))
             #print(full_file_path)
-            #if os.path.isfile(full_file_path):
-            filehash = hm.hash_file(full_file_path)
-            print('-' * 70)
-            print(f'{full_file_path:70}\n{filename:25}\n{filehash:50}\n')
+            if os.path.isfile(full_file_path):
+                filehash = hm.hash_file(full_file_path)
+                record = {'filename':filename, 'filepath':full_file_path, 'filehash':filehash}
+                check_record = mydb.show_duplicate_records(table, 'filehash', filehash)
+                if len(check_record) == 0:
+                        mydb.add_record(table, record)
+                else:
+                    for f_name, f_path, f_hash in check_record:
+                        print(f"{f_name}\n{f_path}\n{f_hash}\n")
+                
+                #if  record_ck not in check_record:
+                    #print(check_record)
+            #print('-' * 70)
+            #print(f'{full_file_path:70}\n{filename:25}\n{filehash:50}\n')
             
-    print('-' * 70)
+    #print('-' * 70)
             #print(folderName)
-            
+    all_records = mydb.show_all_records(table)
+    for my_record in all_records:
+        print(my_record[0], my_record[1], my_record[2])
+        
+    
 # --------------------------------------------------
 if __name__ == '__main__':
     main()

@@ -72,4 +72,16 @@ This journal will chronical my efforts to create a file tracking program.
  May 7, 2023
  Continue to set up the Database.  
  Database setup works.
- TODO: Move the varibles to an ini file.  
+ TODO: Move the varibles to an ini file.
+ Added records to sqlite db.
+ TODO: Add time stamp to each record.
+ TODO: Check records to make sure identical records are not added.  
+       If records are identical, do nothing
+       If the path is identical but the hash is not, update the hash and put a timestamp on the record
+       IF the hash is the same, but the path is different output the file, filehash and path to an excel spreadsheet. It is a duplicate Mark the database as duplicate.
+ TODO: Create another index as a boolean DUPLICATE
+
+ I copied the excel functions from the Manning Book: Automatically Tracking File Changes with Python File: excel_rep.py
+
+ May 8, 2023
+

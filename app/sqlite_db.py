@@ -4,8 +4,14 @@ import os
 class Database():
 
     def __init__(self, db_file):
-        self.conn = sqlite3.connect(db_file)
-        self.cursor = self.conn.cursor()
+        """Connect to the SQLite DB"""
+        try:
+            self.conn = sqlite3.connect(db_file)
+            self.cursor = self.conn.cursor()
+        except BaseException as err:
+            print(str(err))
+            self.conn = None
+            self.cursor = None
 
     def create_table(self, table_name, columns):
         query = f"CREATE TABLE IF NOT EXISTS {table_name} ({', '.join([f'{k} {v}' for k, v in columns.items()])})"
@@ -25,7 +31,7 @@ class Database():
 
     def add_record(self, table_name, record):
         query = f"INSERT INTO {table_name} ({', '.join(record.keys())}) VALUES ({', '.join(['?' for _ in record.values()])})"
-        print(query)
+        #print(query)
         self.cursor.execute(query, list(record.values()))
         self.conn.commit()
 
@@ -35,7 +41,7 @@ class Database():
         self.conn.commit()
 
     def run_query(self, query):
-        print(query)
+        #print(query)
         self.cursor.execute(query)
         return self.cursor.fetchall()
     
@@ -50,7 +56,7 @@ class Database():
         return self.cursor.fetchone()
     
     def show_duplicate_records(self, table_name, index_name, value):
-        query = f"SELECT filename, filepath FROM {table_name} WHERE {index_name} = '{value}'"
+        query = f"SELECT filename, filepath, filehash FROM {table_name} WHERE {index_name} = '{value}'"
         self.cursor.execute(query)
         return self.cursor.fetchall()
 

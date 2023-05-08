@@ -9,6 +9,7 @@ import argparse
 import os
 import re
 import shlex
+import datetime
 
 import hash_module as hm
 import sqlite_db as db
@@ -46,6 +47,14 @@ def setup_db(db_name, table, index, index_cols, columns):
     my_db.create_index(index, table, index_cols)
     return my_db
 
+def getmoddate(fname):
+    """Get file modified date"""
+    try:
+        m_time = os.path.getmtime(fname)
+    except OSError as emsg:
+        print(str(emsg))
+        m_time = 0
+    return datetime.datetime.fromtimestamp(m_time)
 
 # --------------------------------------------------
 def main():
@@ -64,7 +73,7 @@ def main():
     table = 'file_hash'
     index = 'idx_hash'
     index_cols = 'file_hash'
-    columns = columns = {'filename': 'TEXT', 'filepath': 'TEXT', 'filehash': 'TEXT'}
+    columns = columns = {'filename': 'TEXT', 'filepath': 'TEXT', 'filehash': 'TEXT', 'timestamp': 'TEXT'}
     mydb = setup_db(db_name, table, index, index_cols, columns)
           
     for root, subfolders, filenames in os.walk(folder):
@@ -85,13 +94,19 @@ def main():
             #print(full_file_path)
             if os.path.isfile(full_file_path):
                 filehash = hm.hash_file(full_file_path)
-                record = {'filename':filename, 'filepath':full_file_path, 'filehash':filehash}
+                timestamp = getmoddate(full_file_path)
+                record = {'filename':filename, 
+                          'filepath':full_file_path,
+                          'filehash':filehash,
+                          'timestamp':timestamp}
                 check_record = mydb.show_duplicate_records(table, 'filehash', filehash)
                 if len(check_record) == 0:
                         mydb.add_record(table, record)
                 else:
-                    for f_name, f_path, f_hash in check_record:
-                        print(f"{f_name}\n{f_path}\n{f_hash}\n")
+                    pass
+
+                    #for f_name, f_path, f_hash in check_record:
+                    #    print(f"{f_name}\n{f_path}\n{f_hash}\n")
                 
                 #if  record_ck not in check_record:
                     #print(check_record)
@@ -102,7 +117,7 @@ def main():
             #print(folderName)
     all_records = mydb.show_all_records(table)
     for my_record in all_records:
-        print(my_record[0], my_record[1], my_record[2])
+        print(my_record[0], my_record[1], my_record[2],my_record[3])
         
     
 # --------------------------------------------------

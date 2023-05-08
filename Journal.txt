@@ -90,3 +90,5 @@ This journal will chronical my efforts to create a file tracking program.
    2. If the filepath is equal and the hash is different update the file and timestamp  Output a to the file changed excel spreadsheet.
         Output: Update the hash, Write to excel update spreadsheet
    3. If the filepath is different but the hash is the same, output the filepath file and timestamp to a duplicate file.
+ Working on is_rec_modified function.
+ TODO: Go through the filetrack.py file and refactor the main function making most of the code in it functions.

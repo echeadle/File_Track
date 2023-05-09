@@ -10,6 +10,7 @@ import os
 import re
 import shlex
 import datetime
+import socket
 
 import hash_module as hm
 import sqlite_db as db
@@ -32,6 +33,9 @@ def get_args():
 
 
     return parser.parse_args()
+
+def get_hostname():
+    return socket.gethostname()
 
 def is_file_or_dir(path):
     if os.path.isfile(path):
@@ -56,6 +60,11 @@ def getmoddate(fname):
         m_time = 0
     return datetime.datetime.fromtimestamp(m_time)
 
+def print_all_records(db, table):
+    all_records = db.show_all_records(table)
+    for my_record in all_records:
+        print(my_record[:])
+
 # --------------------------------------------------
 def main():
     """File Track manin function"""
@@ -75,53 +84,18 @@ def main():
     index_cols = 'file_hash'
     columns = columns = {'filename': 'TEXT', 'filepath': 'TEXT', 'filehash': 'TEXT', 'timestamp': 'TEXT'}
     mydb = setup_db(db_name, table, index, index_cols, columns)
-          
+    # get hostname
+    host_name = get_hostname()
+    print(f'Host Name: {host_name}')
     for root, subfolders, filenames in os.walk(folder):
         #print('The current folder is ' + folderName)
         subfolders[:] = [f for f in subfolders if not f in ['ansible_collections','node_modules','google-cloud-sdk', 'go', 'VirtualBox VMs','anaconda3','snap','env','venv','temp']]
         subfolders[:] = [f for f in subfolders if not f.startswith('.')]
         subfolders[:] = [f for f in subfolders if not f.startswith('__')]
         filenames[:] = [f for f in filenames if  not f.startswith('.') or not f.startswith('__')]
-        #filenames[:] = [f for f in filenames if  not f.startswith('__')]
-
-        #for subfolder in subfolders:
-            #print('SUBFOLDER OF ' + folderName + ': ' + subfolder)
-            #filenames[:] = [f for f in filenames if  re.findSall('test', f, flags=re.IGNORECASE)]
-            #pass
         for filename in filenames:
-             #print('FILE INSIDE ' + folderName + ': '+ filename)
             full_file_path = shlex.quote(os.path.join(root, filename))
-            #print(full_file_path)
-            if os.path.isfile(full_file_path):
-                filehash = hm.hash_file(full_file_path)
-                timestamp = getmoddate(full_file_path)
-                record = {'filename':filename, 
-                          'filepath':full_file_path,
-                          'filehash':filehash,
-                          'timestamp':timestamp}
-                check_record = mydb.show_duplicate_records(table, 'filehash', filehash)
-                if is_rec_modified(full_file_path):
-                        mydb.update_record(full_file_path):
-                elif len(check_record) == 0:
-                        mydb.add_record(table, record)
-                else:
-                    pass
 
-                    #for f_name, f_path, f_hash in check_record:
-                    #    print(f"{f_name}\n{f_path}\n{f_hash}\n")
-                
-                #if  record_ck not in check_record:
-                    #print(check_record)
-            #print('-' * 70)
-            #print(f'{full_file_path:70}\n{filename:25}\n{filehash:50}\n')
-            
-    #print('-' * 70)
-            #print(folderName)
-    all_records = mydb.show_all_records(table)
-    for my_record in all_records:
-        print(my_record[0], my_record[1], my_record[2],my_record[3])
-        
-    
 # --------------------------------------------------
 if __name__ == '__main__':
     main()

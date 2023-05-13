@@ -1,6 +1,6 @@
 import sqlite3
 import os
-
+import shlex
 class Database():
 
     def __init__(self, db_file):
@@ -9,7 +9,7 @@ class Database():
             self.conn = sqlite3.connect(db_file)
             self.cursor = self.conn.cursor()
         except BaseException as err:
-            print(str(err))
+            #print(str(err))
             self.conn = None
             self.cursor = None
 
@@ -50,16 +50,22 @@ class Database():
         self.cursor.execute(query)
         return self.cursor.fetchall()
 
-    def show_record(self, table_name, condition):
-        query = f"SELECT * FROM {table_name} WHERE {condition}"
+    def show_record(self, table_name, filepath):
+        file_path = (filepath)
+        #query = f"SELECT * FROM {table_name} WHERE {condition}"
+        #print(f"SELECT filename,filepath, filehash, timestamp  FROM {table_name}  WHERE filepath = '{file_path}'")
+        query = f'SELECT filename,filepath, filehash, timestamp  FROM {table_name}  WHERE filepath = "{file_path}"'
         self.cursor.execute(query)
-        return self.cursor.fetchone()
+        return self.cursor.fetchall()
 
-    def update_record(self, filehash, filename): 
+    def update_record(self, table, filepath, filehash): 
         """Update the SQLite File Table"""
-        query = "UPDATE files SET filehash=? WHERE filename=?"
-        args = (filehash, filename)
-        run_query(query, args)
+        file_path = filepath
+        #print(f"file path: {file_path}")
+        query = f"UPDATE {table}  SET filehash = '{filehash}' WHERE filepath = '{file_path}'"
+        self.cursor.execute(query)
+        return self.cursor.fetchall()
+
 
     def is_rec_modifed(filepath,filehash,timestamp):
         """Check record for any changes

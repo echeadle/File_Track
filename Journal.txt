@@ -119,3 +119,7 @@ run file walk
         If list files is selected   
 
                
+May 14, 2023
+A lot of the program is now working. It still needs to write reports. Currently the idea is to output to excel,
+I also need to refactor the program, using more functions and less code. The idea is to have a functions to do
+one thing well.

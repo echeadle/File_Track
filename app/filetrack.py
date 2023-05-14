@@ -102,6 +102,15 @@ def create_record(filepath, filename):
               'timestamp':tstamp}
     return record
 
+def update_file():
+    update_file = record['filepath']
+    new_hash = record['filehash']
+    cur_hash = db_record[0][2]
+    if new_hash != cur_hash:
+        # print(update_file)
+        # print(f"Before: Record {record['filehash']} DB {db_record[0][2]}")
+        mydb.update_record(table, update_file, new_hash)
+        # print(f"After: Record {record['filehash'] } DB {db_record[0][2]}")
 # --------------------------------------------------
 def main():
     """File Track manin function"""
@@ -121,7 +130,9 @@ def main():
     table = 'file_hash'
     index = 'idx_hash'
     index_cols = 'file_hash'
-    columns = columns = {'filename': 'TEXT', 'filepath': 'TEXT', 'filehash': 'TEXT', 'timestamp': 'TEXT'}
+    print_records = True
+
+    columns = {'filename': 'TEXT', 'filepath': 'TEXT', 'filehash': 'TEXT', 'timestamp': 'TEXT'}
     mydb = setup_db(db_name, table, index, index_cols, columns)
     # get hostname
     host_name = get_hostname()
@@ -157,11 +168,12 @@ def main():
                     for filename, filepath, filehash in dup_records:
                         print(filename, filepath, filehash)
                 #print('-' * 50)
-    all_records = mydb.show_all_records(table)
-    for filename, filepath, filehash, tstamp in all_records:
-        print( '-' * 50)
-        print(f"{filename}\n{filepath}\n{filehash}\n{tstamp}\n")
-        print( '-' * 50)
+            if print_records:
+                all_records = mydb.show_all_records(table)
+                for filename, filepath, filehash, tstamp in all_records:
+                    print( '-' * 50)
+                    print(f"{filename}\n{filepath}\n{filehash}\n{tstamp}\n")
+                    print( '-' * 50)
 # --------------------------------------------------
 if __name__ == '__main__':
     main()
